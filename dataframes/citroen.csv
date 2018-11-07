@@ -1,0 +1,699 @@
+,Марка,Модель,Год выпуска,Тип кузова,Цена,Объём двигателя,Цвет,Привод,Руль,Тип двигателя,Состояние,Владельцев по ПТС,Количество дверей,Мощность двигателя,Пробег,VIN или номер кузова,Коробка передач,Ссылка
+0,Citroen,C4,2016,седан,570 000,1.6,белый,передний,левый,бензин,не битый,1,,120 л.с.,27000 км,Z8TND5FS*FM****38,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2016_1378731741
+1,Citroen,C5,2009,седан,340 000,2.0,чёрный,передний,левый,бензин,не битый,4+,4.0,140 л.с.,158000 км,VF7RDRFJ*9L****97,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2009_557651642
+2,Citroen,C4,2011,хетчбэк,319 000,1.6,серебряный,передний,левый,бензин,не битый,2,5.0,120 л.с.,86500 км,Z8TLC5FW*AM****95,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2011_1635845081
+3,Citroen,C4,2008,хетчбэк,230 000,1.6,красный,передний,левый,бензин,не битый,3,3.0,120 л.с.,161000 км,VF7LA5FW*74****80,механика,https://www.avito.ru/moskva/avtomobili/citroen_c4_2008_1201735147
+4,Citroen,C5,2002,хетчбэк,160 000,2.0,серый,передний,левый,бензин,не битый,4+,4.0,136 л.с.,227000 км,VF7DCRFN*76****57,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2002_1240081345
+5,Citroen,C4 Picasso,2014,минивэн,980 000,1.6,белый,передний,левый,бензин,не битый,3,5.0,150 л.с.,99750 км,VF73A5GX*EJ****88,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2014_1699651123
+6,Citroen,SpaceTourer,2017,микроавтобус,1 790 000,2.0,серебряный,передний,левый,дизель,не битый,2,,150 л.с.,27206 км,VF7VEAHX*HZ****99,автомат,https://www.avito.ru/moskva/avtomobili/citroen_spacetourer_2017_1077686193
+7,Citroen,C3,2004,хетчбэк,155 000,1.4,голубой,передний,левый,бензин,не битый,3,5.0,73 л.с.,195000 км,VF7FCKFV*27****70,робот,https://www.avito.ru/moskva/avtomobili/citroen_c3_2004_933849368
+8,Citroen,Grand C4 Picasso,2007,универсал,330 000,2.0,серый,передний,левый,бензин,не битый,2,5.0,140 л.с.,230000 км,VF7UARFJ*45****87,автомат,https://www.avito.ru/moskva/avtomobili/citroen_grand_c4_picasso_2007_1665868099
+9,Citroen,DS4,2012,хетчбэк,544 000,1.6,коричневый,передний,левый,бензин,не битый,1,5.0,120 л.с.,42437 км,VF7NX5FS*CY****66,механика,https://www.avito.ru/moskva/avtomobili/citroen_ds4_2012_1469439433
+10,Citroen,Jumper,2010,фургон,735 000,2.2,белый,передний,левый,дизель,не битый,1,,120 л.с.,159000 км,VF7YCBMF*11****51,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2010_1638625757
+11,Citroen,C-Elysee,2013,седан,395 000,1.6,белый,передний,левый,бензин,не битый,1,4.0,116 л.с.,130000 км,VF7DDNFP*DJ****63,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c-elysee_2013_883389428
+12,Citroen,C4,2009,хетчбэк,295 000,1.6,серый,передний,левый,бензин,не битый,4+,,120 л.с.,112000 км,VF7LA5FW*9Y****91,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2009_1522375418
+13,Citroen,Jumper,2007,фургон,470 000,2.2,белый,передний,левый,дизель,не битый,4+,,100 л.с.,294000 км,VF7YAAMF*11****41,механика,https://www.avito.ru/moskva_zelenograd/avtomobili/citroen_jumper_2007_1267050034
+14,Citroen,C4,2006,хетчбэк,250 000,1.6,красный,передний,левый,бензин,не битый,1,,109 л.с.,156000 км,VF7LCNFU*74****99,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2006_971929788
+15,Citroen,Jumper,2011,фургон,680 000,2.2,белый,передний,левый,дизель,не битый,3,4.0,120 л.с.,210000 км,VF7YCBMF*11****39,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2011_1301055592
+16,Citroen,C4,2005,хетчбэк,169 000,1.6,бежевый,передний,левый,бензин,не битый,3,5.0,109 л.с.,148900 км,VF7LANFU*74****27,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2005_1469245961
+17,Citroen,Grand C4 Picasso,2010,минивэн,494 000,1.6,голубой,передний,левый,дизель,не битый,2,5.0,109 л.с.,124000 км,VF7UA9HZ*AJ****04,робот,https://www.avito.ru/moskva/avtomobili/citroen_grand_c4_picasso_2010_1400590649
+18,Citroen,C3,2010,хетчбэк,380 000,1.6,голубой,передний,левый,бензин,не битый,2,5.0,120 л.с.,100000 км,VF7SC5FS*AA****49,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c3_2010_1629204262
+19,Citroen,Jumpy,2014,микроавтобус,950 000,2.0,серебряный,передний,левый,дизель,не битый,2,5.0,120 л.с.,165000 км,VF7XDRHK*EZ****03,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumpy_2014_1462980823
+20,Citroen,C4,2014,седан,590 000,1.6,коричневый,передний,левый,бензин,не битый,1,,150 л.с.,41000 км,Z8TND5FE*DM****66,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2014_1678296944
+21,Citroen,Berlingo,2012,минивэн,215 000,1.6,белый,передний,левый,бензин,не битый,3,5.0,90 л.с.,126000 км,VF77JNFR*CJ****54,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2012_1155833767
+22,Citroen,Jumper,2013,фургон,915 000,2.2,белый,передний,левый,дизель,не битый,2,5.0,131 л.с.,152000 км,VF7YCZMF*12****73,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2013_1676446884
+23,Citroen,C4,2012,хетчбэк,379 000,1.6,чёрный,передний,левый,бензин,не битый,3,,120 л.с.,119317 км,Z8TNC5FS*BM****46,механика,https://www.avito.ru/moskva/avtomobili/citroen_c4_2012_1460426271
+24,Citroen,C4,2013,седан,600 000,1.6,чёрный,передний,левый,бензин,не битый,2,4.0,150 л.с.,70000 км,Z8TND5FE*DM****53,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2013_1189222878
+25,Citroen,C3,2010,хетчбэк,365 000,1.6,голубой,передний,левый,бензин,не битый,4+,5.0,120 л.с.,130000 км,VF7SC5FS*AA****72,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c3_2010_1031420314
+26,Citroen,C5,2011,седан,535 000,1.6,чёрный,передний,левый,бензин,не битый,1,,150 л.с.,85169 км,VF7RW5FE*BL****89,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2011_1226167755
+27,Citroen,Berlingo,2012,минивэн,310 000,1.6,голубой,передний,левый,бензин,не битый,2,5.0,120 л.с.,241000 км,VF77J5FS*CJ****31,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2012_1179142769
+28,Citroen,C4,2014,седан,550 000,1.6,серебряный,передний,левый,бензин,не битый,1,4.0,150 л.с.,99000 км,Z8TND5FE*EM****43,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2014_1249012212
+29,Citroen,C4,2011,хетчбэк,319 000,1.6,белый,передний,левый,бензин,не битый,1,,120 л.с.,179500 км,Z8TNC5FS*BM****95,механика,https://www.avito.ru/moskva/avtomobili/citroen_c4_2011_1439627360
+30,Citroen,C4,2005,хетчбэк,300 000,1.6,красный,передний,левый,бензин,не битый,4+,,109 л.с.,105000 км,VF7LANFU*74****17,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2005_1094100388
+31,Citroen,C3,2008,хетчбэк,330 000,1.4,красный,передний,левый,бензин,не битый,4+,,88 л.с.,66000 км,VF7FCKFU*29****72,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c3_2008_1232105294
+32,Citroen,C4,2018,седан,980 000,1.6,серый,передний,левый,бензин,не битый,1,4.0,150 л.с.,10000 км,Z8TND5GX*HM****97,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2018_1155745585
+33,Citroen,C4,2008,купе,230 000,1.6,чёрный,передний,левый,бензин,не битый,4+,3.0,120 л.с.,117400 км,VF7LA5FW*74****81,механика,https://www.avito.ru/moskva/avtomobili/citroen_c4_2008_1542335661
+34,Citroen,Berlingo,2007,универсал,310 000,1.4,серебряный,передний,левый,бензин,не битый,1,5.0,75 л.с.,41400 км,VF7GJKFW*93****45,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2007_1015527293
+35,Citroen,C3,2011,хетчбэк,349 000,1.4,золотой,передний,левый,бензин,не битый,2,5.0,95 л.с.,126000 км,VF7SC8FP*BA****29,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c3_2011_981793453
+36,Citroen,C3,2004,хетчбэк,120 000,1.6,серый,передний,левый,бензин,не битый,2,,109 л.с.,140000 км,VF7FCNFU*27****30,механика,https://www.avito.ru/moskva/avtomobili/citroen_c3_2004_1405511810
+37,Citroen,C4,2013,седан,599 000,1.6,белый,передний,левый,бензин,не битый,4+,,150 л.с.,122000 км,Z8TND5FE*DM****22,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2013_948036659
+38,Citroen,C4,2012,хетчбэк,435 000,1.6,белый,задний,левый,бензин,не битый,1,4.0,120 л.с.,95000 км,Z8TNC5FS*CM****12,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2012_1255542119
+39,Citroen,Jumper,2013,микроавтобус,780 000,2.3,белый,передний,левый,дизель,не битый,1,4.0,131 л.с.,194000 км,VF7YAZMF*12****31,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2013_1625842126
+40,Citroen,C5,2008,седан,340 000,1.8,белый,передний,левый,бензин,не битый,2,4.0,125 л.с.,201000 км,VF7RD6FY*54****44,механика,https://www.avito.ru/moskva/avtomobili/citroen_c5_2008_1029182640
+41,Citroen,C5,2011,седан,480 000,1.6,серый,передний,левый,бензин,не битый,4+,,150 л.с.,120000 км,VF7RD5FE*BL****06,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2011_1582970659
+42,Citroen,Jumper,2012,фургон,620 000,2.2,белый,передний,левый,дизель,не битый,3,,131 л.с.,180612 км,VF7YAZMF*12****56,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2012_1102663078
+43,Citroen,DS4,2012,хетчбэк,479 000,1.6,белый,передний,левый,бензин,не битый,3,5.0,150 л.с.,77549 км,VF7NX5FE*CY****66,автомат,https://www.avito.ru/moskva/avtomobili/citroen_ds4_2012_1526526127
+44,Citroen,DS4,2012,хетчбэк,579 000,1.6,коричневый,передний,левый,бензин,не битый,1,,150 л.с.,96000 км,VF7NX5FE*CY****70,автомат,https://www.avito.ru/moskva/avtomobili/citroen_ds4_2012_1057099787
+45,Citroen,C4,2014,седан,495 000,1.6,серый,передний,левый,бензин,не битый,1,,115 л.с.,78000 км,Z8TNDNFP*DM****58,механика,https://www.avito.ru/moskva/avtomobili/citroen_c4_2014_1176271276
+46,Citroen,C5,2006,хетчбэк,280 000,2.0,чёрный,передний,левый,бензин,не битый,2,5.0,140 л.с.,168500 км,VF7RCRFJ*76****07,механика,https://www.avito.ru/moskva/avtomobili/citroen_c5_2006_1360758644
+47,Citroen,C-Crosser,2009,внедорожник,606 958,2.4,серебряный,полный,левый,бензин,не битый,1,5.0,170 л.с.,139682 км,VF7VUSFZ*9Z****36,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c-crosser_2009_1638568341
+48,Citroen,Jumper,2013,фургон,580 000,2.2,белый,передний,левый,дизель,не битый,1,,131 л.с.,260000 км,X9H37211*D6****41,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2013_1267468250
+49,Citroen,C5,2011,седан,559 000,1.6,белый,передний,левый,бензин,не битый,2,,120 л.с.,55000 км,VF7RD5FS*BL****51,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2011_1388583979
+50,Citroen,C4,2014,седан,595 000,1.6,чёрный,передний,левый,бензин,не битый,1,,150 л.с.,75984 км,Z8TND5FE*DM****03,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2014_1108744163
+51,Citroen,Jumper,2013,фургон,620 000,2.2,белый,передний,левый,дизель,не битый,1,,131 л.с.,265000 км,X9H37211*D6****40,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2013_1640133231
+52,Citroen,C4,2008,хетчбэк,269 000,1.6,серый,передний,левый,бензин,не битый,2,3.0,109 л.с.,134900 км,VF7LANFU*74****45,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2008_1611788694
+53,Citroen,C4,2011,хетчбэк,439 000,1.6,красный,передний,левый,бензин,не битый,1,5.0,120 л.с.,90000 км,Z8TNC5FS*BM****97,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2011_1292320421
+54,Citroen,C4,2011,хетчбэк,445 000,1.6,белый,передний,левый,бензин,не битый,1,5.0,120 л.с.,118000 км,Z8TNC5FS*BM****82,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2011_1682059611
+55,Citroen,C4,2016,седан,717 000,1.6,коричневый,передний,левый,бензин,не битый,1,4.0,115 л.с.,36310 км,Z8TNDNFP*GM****48,механика,https://www.avito.ru/moskva/avtomobili/citroen_c4_2016_982455292
+56,Citroen,Jumper,2003,фургон,210 000,2.8,белый,передний,левый,дизель,не битый,3,4.0,127 л.с.,284000 км,VF7ZCPMN*17****71,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2003_1361384705
+57,Citroen,C4 Aircross,2012,внедорожник,730 000,2.0,красный,передний,левый,бензин,не битый,3,5.0,150 л.с.,56000 км,VF7BUAFZ*DZ****70,вариатор,https://www.avito.ru/moskva/avtomobili/citroen_c4_aircross_2012_1241882314
+58,Citroen,DS4,2012,хетчбэк,529 000,1.6,чёрный,передний,левый,бензин,не битый,2,5.0,120 л.с.,119000 км,VF7NX5FS*CY****04,механика,https://www.avito.ru/moskva/avtomobili/citroen_ds4_2012_1473438819
+59,Citroen,C4,2008,хетчбэк,275 000,1.6,чёрный,передний,левый,бензин,не битый,3,3.0,120 л.с.,193000 км,VF7LA5FW*74****22,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2008_927580002
+60,Citroen,C4,2007,хетчбэк,220 000,1.6,серебряный,передний,левый,бензин,не битый,3,3.0,109 л.с.,127888 км,VF7LANFU*74****40,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2007_1627579757
+61,Citroen,C4,2014,седан,560 000,1.6,серебряный,передний,левый,бензин,не битый,3,,120 л.с.,80267 км,Z8TND5FS*EM****73,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2014_1629423411
+62,Citroen,C4,2014,седан,530 000,1.6,серебряный,передний,левый,бензин,не битый,2,4.0,120 л.с.,89000 км,Z8TND5FS*EM****00,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2014_1225075932
+63,Citroen,C3 Picasso,2013,минивэн,400 000,1.4,белый,передний,левый,бензин,не битый,1,,95 л.с.,200088 км,VF7SHBFP*DT****27,механика,https://www.avito.ru/moskva/avtomobili/citroen_c3_picasso_2013_1510454643
+64,Citroen,C4,2008,хетчбэк,270 000,1.6,красный,передний,левый,бензин,не битый,4+,5.0,140 л.с.,143000 км,VF7LC5FT*74****57,автомат,https://www.avito.ru/moskva_zelenograd/avtomobili/citroen_c4_2008_1206599517
+65,Citroen,C4,2014,седан,690 000,1.6,белый,передний,левый,бензин,не битый,1,5.0,120 л.с.,65000 км,Z8TND5FS*EM****53,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2014_1617513853
+66,Citroen,Jumper,2009,фургон,590 000,2.2,серебряный,передний,левый,дизель,не битый,1,4.0,120 л.с.,250000 км,VF7YBBMF*11****57,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2009_876546756
+67,Citroen,Berlingo,2012,фургон,325 000,1.6,белый,передний,левый,бензин,не битый,1,,120 л.с.,26000 км,VF77CNFR*CJ****98,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2012_1682862050
+68,Citroen,DS5,2012,хетчбэк,915 000,1.6,белый,передний,левый,бензин,не битый,2,5.0,150 л.с.,70400 км,VF7KF5FE*CS****00,автомат,https://www.avito.ru/moskva/avtomobili/citroen_ds5_2012_1560259390
+69,Citroen,C4,2014,седан,480 000,1.6,серый,передний,левый,бензин,не битый,1,,120 л.с.,156337 км,Z8TND5FS*EM****32,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2014_1237233215
+70,Citroen,Jumper,2012,фургон,745 000,2.2,белый,передний,левый,дизель,не битый,1,,131 л.с.,34000 км,VF7YEZMF*12****24,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2012_1358813507
+71,Citroen,C3,2007,хетчбэк,170 000,1.4,синий,передний,левый,бензин,не битый,2,4.0,75 л.с.,142000 км,VF7FCKFV*28****59,механика,https://www.avito.ru/moskva/avtomobili/citroen_c3_2007_1198430492
+72,Citroen,Jumper,2011,фургон,845 000,2.2,белый,передний,левый,дизель,не битый,1,,131 л.с.,3600 км,VF7YBBMF*12****37,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2011_1263509525
+73,Citroen,C4 Picasso,2008,минивэн,330 000,1.6,чёрный,передний,левый,дизель,не битый,2,5.0,109 л.с.,219000 км,VF7UA9HZ*45****11,робот,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2008_1419501725
+74,Citroen,C5,2013,седан,750 500,1.6,коричневый,передний,левый,бензин,не битый,2,4.0,150 л.с.,75500 км,VF7RD5FE*DL****45,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2013_1551963037
+75,Citroen,C1,2011,хетчбэк,289 000,1.0,синий,передний,левый,бензин,не битый,2,5.0,68 л.с.,78200 км,VF7PNCFB*89****53,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c1_2011_1345779873
+76,Citroen,C4,2007,хетчбэк,239 000,1.6,чёрный,передний,левый,бензин,не битый,2,3.0,109 л.с.,119000 км,VF7LCNFU*74****48,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2007_1120171741
+77,Citroen,C4 Picasso,2014,минивэн,955 000,1.6,чёрный,передний,левый,дизель,не битый,1,,115 л.с.,91000 км,VF73A9HC*EJ****75,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2014_1324499785
+78,Citroen,C4,2012,хетчбэк,479 000,1.6,чёрный,передний,левый,бензин,не битый,1,5.0,120 л.с.,83000 км,Z8TNC5FS*CM****39,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2012_1708635769
+79,Citroen,C4,2010,хетчбэк,339 000,1.6,серебряный,передний,левый,бензин,не битый,1,5.0,120 л.с.,106000 км,Z8TLC5FW*AM****05,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2010_1214309624
+80,Citroen,Berlingo,2008,фургон,138 000,1.4,красный,передний,левый,бензин,не битый,3,4.0,75 л.с.,220000 км,VF7GCKFW*8N****41,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2008_1083336164
+81,Citroen,C4,2012,хетчбэк,450 000,1.6,красный,передний,левый,бензин,не битый,2,5.0,120 л.с.,133000 км,Z8TNC5FS*CM****99,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2012_1257704782
+82,Citroen,C4,2010,хетчбэк,324 000,1.6,чёрный,передний,левый,бензин,не битый,2,,120 л.с.,82000 км,VF7LA5FW*AY****66,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2010_1539959706
+83,Citroen,Berlingo,2011,минивэн,370 000,1.6,белый,передний,левый,бензин,не битый,2,,90 л.с.,125700 км,VF77J5FS*BJ****73,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2011_1541665673
+84,Citroen,C4,2014,седан,525 000,1.8,белый,передний,левый,бензин,не битый,1,5.0,150 л.с.,78000 км,Z8TND5FE*EM****11,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2014_1069012422
+85,Citroen,C3,2009,хетчбэк,255 000,1.4,красный,передний,левый,бензин,не битый,2,5.0,88 л.с.,58453 км,VF7FCKFU*29****76,робот,https://www.avito.ru/moskva/avtomobili/citroen_c3_2009_1130733230
+86,Citroen,C4,2008,хетчбэк,329 000,1.6,красный,передний,левый,бензин,не битый,3,3.0,120 л.с.,81000 км,VF7LA5FW*74****62,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2008_1560608106
+87,Citroen,C2,2006,купе,219 000,1.4,синий,передний,левый,бензин,не битый,3,3.0,88 л.с.,82000 км,VF7JMKFU*97****88,робот,https://www.avito.ru/moskva/avtomobili/citroen_c2_2006_1597992970
+88,Citroen,C4,2018,седан,1 023 000,1.6,серебряный,передний,левый,бензин,,,,115 л.с.,,Z8TNDNFP*JM****13,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2018_1175845526
+89,Citroen,C4,2012,хетчбэк,415 000,1.6,чёрный,передний,левый,бензин,не битый,1,5.0,120 л.с.,71059 км,Z8TNC5FS*CM****51,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2012_1288112107
+90,Citroen,C4,2011,хетчбэк,339 000,1.6,чёрный,передний,левый,бензин,не битый,1,5.0,120 л.с.,69000 км,Z8TNC5FS*BM****10,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2011_1643483197
+91,Citroen,C4,2009,хетчбэк,329 000,1.6,серый,передний,левый,бензин,не битый,4+,5.0,120 л.с.,112000 км,VF7LC5FW*9Y****44,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2009_1326370037
+92,Citroen,C4,2013,хетчбэк,469 000,1.6,белый,передний,левый,бензин,не битый,1,5.0,120 л.с.,75200 км,VF7NC5FS*CY****03,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2013_1270126075
+93,Citroen,Jumper,2012,фургон,689 000,2.2,белый,передний,левый,дизель,не битый,1,2.0,131 л.с.,153347 км,VF7YAZMF*12****34,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2012_1615994962
+94,Citroen,C4,2014,седан,630 000,1.6,белый,передний,левый,бензин,не битый,1,4.0,150 л.с.,102000 км,Z8TND5FE*DM****56,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2014_1542975976
+95,Citroen,C4,2010,хетчбэк,290 000,1.6,чёрный,передний,левый,бензин,не битый,1,3.0,120 л.с.,69523 км,VF7LA5FW*AY****59,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2010_1193794010
+96,Citroen,Berlingo,2010,минивэн,480 000,1.6,голубой,передний,левый,бензин,не битый,2,5.0,90 л.с.,126500 км,VF77JNFR*AJ****34,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2010_1584014010
+97,Citroen,Jumper,2014,фургон,900 000,2.2,серебряный,передний,левый,дизель,не битый,1,,131 л.с.,100000 км,VF7YAZMF*12****70,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2014_1519435584
+98,Citroen,Jumper,2014,фургон,850 000,3.5,белый,передний,левый,дизель,не битый,2,3.0,131 л.с.,125000 км,VF7YCZMA*12****97,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2014_1521962236
+99,Citroen,C-Crosser,2010,внедорожник,627 000,2.4,чёрный,полный,левый,бензин,не битый,1,5.0,170 л.с.,139000 км,Z8TVUSFZ*AM****40,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c-crosser_2010_1461184868
+100,Citroen,Berlingo,2008,пикап,169 000,1.4,белый,передний,левый,бензин,не битый,3,3.0,75 л.с.,190000 км,VF7GCKFW*8N****22,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2008_1293595267
+101,Citroen,C5,2008,седан,499 000,2.0,синий,передний,левый,дизель,не битый,3,4.0,138 л.с.,180000 км,VF7RDRHR*54****64,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2008_1558908034
+102,Citroen,C2,2004,купе,180 000,1.4,чёрный,передний,левый,бензин,не битый,2,3.0,75 л.с.,131500 км,VF7JMKFV*97****45,механика,https://www.avito.ru/moskva/avtomobili/citroen_c2_2004_1145373054
+103,Citroen,C4,2008,купе,230 000,1.6,серебряный,передний,левый,бензин,не битый,3,3.0,109 л.с.,156000 км,VF7LANFU*74****25,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2008_1536343164
+104,Citroen,C4 Picasso,2013,хетчбэк,750 000,1.6,коричневый,передний,левый,бензин,не битый,2,5.0,150 л.с.,53000 км,VF7UD5FN*CJ****33,робот,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2013_1010650828
+105,Citroen,C5,2010,седан,420 000,1.6,красный,передний,левый,бензин,не битый,2,4.0,150 л.с.,96800 км,VF7RD5FN*AL****69,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2010_1120511801
+106,Citroen,Jumper,2013,микроавтобус,810 000,2.2,белый,передний,левый,дизель,не битый,1,2.0,131 л.с.,118700 км,VF7YEZMF*12****88,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2013_1047308871
+107,Citroen,C-Elysee,2014,седан,350 000,1.2,белый,передний,левый,бензин,не битый,3,4.0,72 л.с.,31200 км,VF7DDHMY*EJ****31,робот,https://www.avito.ru/moskva/avtomobili/citroen_c-elysee_2014_1019810867
+108,Citroen,Jumper,2014,фургон,755 000,2.2,белый,передний,левый,дизель,не битый,1,2.0,131 л.с.,139000 км,X9H37211*D3****07,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2014_1570298937
+109,Citroen,C5,2004,хетчбэк,270 000,2.0,серебряный,передний,левый,бензин,не битый,4+,4.0,140 л.с.,213000 км,VF7RCRFJ*76****32,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2004_1293880706
+110,Citroen,Berlingo,2001,фургон,100 000,1.4,зелёный,передний,левый,бензин,не битый,1,4.0,75 л.с.,330000 км,X7M31304*YD****25,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2001_1640225921
+111,Citroen,Jumper,2013,фургон,729 000,2.2,белый,передний,левый,дизель,не битый,1,2.0,131 л.с.,142000 км,X9H37211*C8****76,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2013_1483701679
+112,Citroen,C4,2007,хетчбэк,235 000,1.6,красный,передний,левый,бензин,не битый,4+,,109 л.с.,157737 км,VF7LANFU*74****68,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2007_1623544627
+113,Citroen,Jumper,2011,фургон,750 000,2.2,белый,передний,левый,дизель,не битый,1,2.0,750 л.с.,340000 км,VF7YCBMA*11****58,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2011_1375541378
+114,Citroen,Berlingo,2011,минивэн,410 000,1.6,чёрный,передний,левый,бензин,не битый,3,5.0,90 л.с.,160000 км,VF77JNFR*BJ****31,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2011_944634794
+115,Citroen,Jumpy,2014,минивэн,975 000,2.0,чёрный,передний,левый,дизель,не битый,2,5.0,120 л.с.,151000 км,VF7XDRHK*EZ****91,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumpy_2014_1638887423
+116,Citroen,C3,2010,хетчбэк,327 000,1.6,бежевый,передний,левый,бензин,не битый,2,5.0,120 л.с.,73990 км,VF7SC5FS*AA****94,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c3_2010_1493406346
+117,Citroen,C4,2007,хетчбэк,250 000,1.6,фиолетовый,передний,левый,бензин,не битый,3,3.0,103 л.с.,120000 км,VF7LANFU*74****38,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2007_1102450547
+118,Citroen,C4,2006,хетчбэк,140 000,1.6,чёрный,передний,левый,бензин,не битый,3,3.0,108 л.с.,189000 км,VF7LANFU*74****58,автомат,https://www.avito.ru/moskva_zelenograd/avtomobili/citroen_c4_2006_1517481880
+119,Citroen,DS4,2012,хетчбэк,650 000,1.6,зелёный,передний,левый,бензин,не битый,2,5.0,150 л.с.,98000 км,VF7NX5FE*CY****32,автомат,https://www.avito.ru/moskva/avtomobili/citroen_ds4_2012_1316948204
+120,Citroen,C4 Picasso,2008,минивэн,299 000,1.6,синий,передний,левый,бензин,не битый,2,5.0,150 л.с.,118601 км,VF7UD5FX*45****99,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2008_1107720167
+121,Citroen,C4,2006,хетчбэк,189 000,1.6,серебряный,передний,левый,бензин,не битый,2,5.0,109 л.с.,135200 км,VF7LCNFU*74****76,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2006_1665453509
+122,Citroen,C5,2013,седан,715 000,2.0,белый,передний,левый,дизель,не битый,1,,138 л.с.,87000 км,VF7RDRHD*CL****34,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2013_1695955196
+123,Citroen,Berlingo,2011,минивэн,365 000,1.6,белый,передний,левый,бензин,не битый,1,,90 л.с.,118000 км,VF77JNFR*BJ****89,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2011_1538246046
+124,Citroen,C4 Picasso,2008,минивэн,340 000,1.6,серый,передний,левый,дизель,не битый,2,5.0,109 л.с.,103000 км,VF7UD9HZ*45****28,робот,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2008_1258484154
+125,Citroen,C4 Picasso,2017,минивэн,2 641 000,1.6,белый,передний,левый,дизель,,,,120 л.с.,,Z8TND5GX*GM****98,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2017_986405378
+126,Citroen,Другая,2018,минивэн,2 180 000,2.0,серый,передний,левый,дизель,,,,150 л.с.,,Z8TVEAHX*JM****68,автомат,https://www.avito.ru/moskva/avtomobili/citroen_2018_963147283
+127,Citroen,C4,2018,седан,1 250 000,1.6,белый,передний,левый,бензин,,,,115 л.с.,,Z8TNDNFP*JM****97,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2018_959859838
+128,Citroen,C3,2018,внедорожник,1 450 000,1.2,серебряный,передний,левый,бензин,,,,110 л.с.,,Z8TND5GX*HM****96,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c3_2018_1138472709
+129,Citroen,C3,2018,внедорожник,1 500 000,1.2,серебряный,передний,левый,бензин,,,,110 л.с.,,Z8TNDNFP*HM****04,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c3_2018_1286439741
+130,Citroen,Jumper,2014,фургон,875 000,2.2,белый,передний,левый,дизель,не битый,1,,131 л.с.,118000 км,VF7YAZMF*12****92,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2014_1337442797
+131,Citroen,C4 Picasso,2017,минивэн,1 600 000,1.6,белый,передний,левый,бензин,не битый,1,5.0,150 л.с.,30757 км,VF73A5GX*HJ****82,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2017_1311043867
+132,Citroen,Jumper,2015,фургон,1 029 000,2.2,белый,передний,левый,дизель,не битый,1,,131 л.с.,110000 км,VF7YCZMF*12****90,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2015_1613089953
+133,Citroen,Jumper,2014,фургон,899 000,2.2,белый,передний,левый,дизель,не битый,1,,131 л.с.,112000 км,VF7YAZMF*12****87,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2014_1141526396
+134,Citroen,C4,2010,хетчбэк,309 000,1.6,серебряный,передний,левый,бензин,не битый,3,5.0,120 л.с.,112000 км,Z8TLC5FW*AM****69,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2010_1583411579
+135,Citroen,C4,2013,хетчбэк,490 000,1.6,белый,передний,левый,бензин,не битый,2,5.0,120 л.с.,105000 км,Z8TNC5FS*BM****19,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2013_1448815115
+136,Citroen,C4,2011,хетчбэк,379 000,1.6,белый,передний,левый,бензин,не битый,1,5.0,120 л.с.,90445 км,Z8TNC5FS*BM****89,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2011_982129308
+137,Citroen,Xsara Picasso,2009,минивэн,290 000,1.6,серебряный,передний,левый,бензин,не битый,1,,110 л.с.,126854 км,VF7CHNFU*98****72,механика,https://www.avito.ru/moskva/avtomobili/citroen_xsara_picasso_2009_1306420282
+138,Citroen,C4,2008,хетчбэк,270 000,1.6,красный,передний,левый,бензин,не битый,2,3.0,109 л.с.,106735 км,VF7LANFU*74****30,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2008_1166961527
+139,Citroen,Berlingo,2009,фургон,345 000,1.6,серый,передний,левый,дизель,не битый,2,5.0,75 л.с.,124352 км,VF7GJ9HW*8N****19,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2009_1491453538
+140,Citroen,C4,2012,хетчбэк,195 000,1.6,белый,передний,левый,бензин, битый,1,5.0,120 л.с.,89000 км,Z8TNC5FS*CM****01,механика,https://www.avito.ru/moskva/avtomobili/citroen_c4_2012_1566942552
+141,Citroen,C4,2008,хетчбэк,254 000,1.6,синий,передний,левый,бензин,не битый,3,,120 л.с.,127000 км,VF7LA5FW*74****98,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2008_1593613903
+142,Citroen,C4,2006,хетчбэк,250 000,1.6,серый,передний,левый,бензин,не битый,4+,5.0,109 л.с.,295000 км,VF7LCNFU*74****87,механика,https://www.avito.ru/moskva/avtomobili/citroen_c4_2006_1060985932
+143,Citroen,C-Elysee,2014,седан,475 000,1.6,чёрный,передний,левый,бензин,не битый,2,5.0,115 л.с.,8000 км,VF7DDNFP*EJ****43,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c-elysee_2014_1346455605
+144,Citroen,C4,2010,хетчбэк,285 000,1.6,серый,передний,левый,бензин,не битый,2,5.0,120 л.с.,131000 км,VF7LC5FW*AY****62,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2010_938369268
+145,Citroen,DS4,2014,хетчбэк,910 000,1.6,белый,передний,левый,бензин,не битый,1,5.0,150 л.с.,450 км,VF7NX5FE*EY****60,автомат,https://www.avito.ru/moskva/avtomobili/citroen_ds4_2014_1110980602
+146,Citroen,C4,2010,хетчбэк,275 000,1.6,серый,передний,левый,бензин,не битый,1,5.0,120 л.с.,78300 км,Z8TLC5FW*AM****81,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2010_1469992988
+147,Citroen,C4,2014,внедорожник,750 000,1.9,коричневый,полный,левый,бензин,не битый,2,5.0,150 л.с.,98000 км,VF7BUAFZ*EZ****86,вариатор,https://www.avito.ru/moskva/avtomobili/citroen_c4_2014_1606701563
+148,Citroen,DS4,2013,хетчбэк,565 000,1.6,белый,передний,левый,бензин,не битый,2,4.0,150 л.с.,74000 км,VF7NX5FE*DY****71,автомат,https://www.avito.ru/moskva/avtomobili/citroen_ds4_2013_1616637877
+149,Citroen,C4,2014,седан,555 000,1.6,коричневый,передний,левый,бензин,не битый,2,4.0,120 л.с.,39000 км,Z8TND5FS*EM****39,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2014_1716617316
+150,Citroen,C4,2011,хетчбэк,375 000,1.6,белый,передний,левый,бензин,не битый,4+,,120 л.с.,136266 км,Z8TNC5FS*BM****42,механика,https://www.avito.ru/moskva/avtomobili/citroen_c4_2011_1678869612
+151,Citroen,C3 Picasso,2010,минивэн,399 000,1.6,чёрный,передний,левый,бензин,не битый,1,5.0,115 л.с.,69000 км,VF7SH5FP*AT****29,механика,https://www.avito.ru/moskva/avtomobili/citroen_c3_picasso_2010_1593783321
+152,Citroen,Berlingo,2013,универсал,485 000,1.6,серый,передний,левый,бензин,не битый,1,5.0,120 л.с.,138000 км,VF77J5FS*CJ****65,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2013_974262103
+153,Citroen,C4,2010,хетчбэк,309 000,1.6,чёрный,передний,левый,бензин,не битый,2,5.0,120 л.с.,94200 км,Z8TLC5FW*AM****70,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2010_1501498581
+154,Citroen,C4,2014,седан,400 000,1.6,жёлтый,передний,левый,бензин,не битый,1,5.0,120 л.с.,136000 км,Z8TND5FS*EM****55,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2014_1460976175
+155,Citroen,Berlingo,2010,фургон,360 000,1.3,белый,передний,левый,бензин,не битый,4+,,75 л.с.,110000 км,VF7GCKFW*AX****98,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2010_1196548339
+156,Citroen,C-Elysee,2013,седан,460 000,1.6,коричневый,передний,левый,бензин,не битый,1,,115 л.с.,73025 км,VF7DDNFP*DJ****51,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c-elysee_2013_1188777807
+157,Citroen,C4,2008,хетчбэк,220 000,1.4,серебряный,передний,левый,бензин,не битый,3,5.0,88 л.с.,189088 км,VF7LCKFU*74****33,механика,https://www.avito.ru/moskva/avtomobili/citroen_c4_2008_1517230635
+158,Citroen,Berlingo,2011,универсал,299 000,1.4,серый,передний,левый,бензин,не битый,1,,75 л.с.,122083 км,VF7GJKFW*BX****37,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2011_1312542678
+159,Citroen,C4,2012,хетчбэк,529 000,1.6,серебряный,передний,левый,бензин,не битый,1,5.0,120 л.с.,96367 км,Z8TNC5FS*CM****34,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2012_1303757198
+160,Citroen,C4 Aircross,2012,внедорожник,750 000,2.0,коричневый,полный,левый,бензин,не битый,1,5.0,110 л.с.,155000 км,VF7BUAFZ*CZ****66,вариатор,https://www.avito.ru/moskva/avtomobili/citroen_c4_aircross_2012_1302898401
+161,Citroen,Jumper,2011,микроавтобус,490 000,2.2,белый,передний,левый,дизель,не битый,2,4.0,120 л.с.,194000 км,VF7YEBMF*12****64,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2011_1364167233
+162,Citroen,C4,2008,хетчбэк,370 000,1.6,красный,передний,левый,бензин,не битый,1,,108 л.с.,68297 км,VF7LANFU*74****67,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2008_952586015
+163,Citroen,C4 Picasso,2008,минивэн,355 000,1.6,бежевый,передний,левый,дизель,не битый,2,,109 л.с.,101533 км,VF7UA9HZ*45****17,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2008_1553341852
+164,Citroen,C4,2005,хетчбэк,199 000,1.6,чёрный,передний,левый,бензин,не битый,4+,5.0,109 л.с.,91000 км,VF7LANFU*74****58,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2005_1438223782
+165,Citroen,C4,2011,хетчбэк,417 000,1.6,чёрный,передний,левый,бензин,не битый,1,5.0,120 л.с.,122870 км,Z8TNC5FS*BM****00,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2011_1397634546
+166,Citroen,C4,2013,седан,415 000,1.6,белый,передний,левый,бензин,не битый,1,,115 л.с.,121721 км,Z8TNDNFP*DM****84,механика,https://www.avito.ru/moskva/avtomobili/citroen_c4_2013_1380703166
+167,Citroen,C5,2010,седан,430 000,1.6,серый,передний,левый,бензин,не битый,3,4.0,150 л.с.,143000 км,VF7RD5FN*AL****79,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2010_1661141121
+168,Citroen,Jumper,2013,фургон,775 000,2.2,белый,передний,левый,дизель,не битый,1,,131 л.с.,127000 км,VF7YDZMF*12****68,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2013_1146495699
+169,Citroen,Jumper,2013,фургон,675 000,2.2,белый,передний,левый,дизель,не битый,1,,131 л.с.,132000 км,VF7YEZMF*12****27,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2013_1533369954
+170,Citroen,Jumper,2014,фургон,809 000,2.2,белый,передний,левый,дизель,не битый,1,,131 л.с.,137000 км,VF7YAZMF*12****66,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2014_1310752999
+171,Citroen,C4,2008,хетчбэк,220 000,1.6,чёрный,передний,левый,бензин,не битый,3,3.0,120 л.с.,127000 км,VF7LA5FW*74****91,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2008_1417338952
+172,Citroen,C4,2009,хетчбэк,340 000,1.6,красный,передний,левый,бензин,не битый,2,5.0,120 л.с.,51000 км,VF7LC5FW*9Y****61,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2009_1227427771
+173,Citroen,C4,2011,хетчбэк,325 000,1.6,красный,передний,левый,бензин,не битый,2,5.0,120 л.с.,62000 км,Z8TLC5FW*AM****07,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2011_1311034341
+174,Citroen,C4,2015,седан,590 000,1.6,белый,передний,левый,бензин,не битый,2,,116 л.с.,34366 км,Z8TNDNFP*FM****23,механика,https://www.avito.ru/moskva/avtomobili/citroen_c4_2015_1605292157
+175,Citroen,Berlingo,2012,минивэн,405 000,1.6,зелёный,передний,левый,бензин,не битый,1,,120 л.с.,92000 км,VF77J5FS*CJ****87,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2012_1130707402
+176,Citroen,C4,2011,хетчбэк,419 000,1.6,коричневый,передний,левый,бензин,не битый,1,5.0,120 л.с.,126000 км,Z8TNC5FS*BM****65,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2011_1630215301
+177,Citroen,C4,2010,хетчбэк,319 000,1.6,чёрный,передний,левый,бензин,не битый,1,5.0,120 л.с.,92400 км,Z8TLC5FW*AM****56,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2010_1320969011
+178,Citroen,C4,2013,хетчбэк,490 000,1.6,чёрный,передний,левый,бензин,не битый,2,5.0,120 л.с.,35000 км,VF7NC5FS*DY****04,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2013_983658534
+179,Citroen,C4,2006,хетчбэк,215 000,1.6,серебряный,передний,левый,бензин,не битый,4+,3.0,109 л.с.,180000 км,VF7LANFU*74****89,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2006_1374700803
+180,Citroen,C3,2010,хетчбэк,419 000,1.6,голубой,передний,левый,бензин,не битый,1,3.0,120 л.с.,38641 км,VF7SC5FS*AA****44,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c3_2010_1482559547
+181,Citroen,DS4,2012,хетчбэк,585 000,1.6,белый,передний,левый,бензин,не битый,2,,150 л.с.,62800 км,VF7NX5FE*CY****28,автомат,https://www.avito.ru/moskva/avtomobili/citroen_ds4_2012_1646549908
+182,Citroen,C4,2018,седан,1 200 000,1.6,чёрный,передний,левый,бензин,,,,150 л.с.,,Z8TNDNFP*GM****95,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2018_1615660058
+183,Citroen,Jumpy,2018,фургон,1 870 000,2.0,коричневый,передний,левый,дизель,,,,150 л.с.,,VF7VFAHX*JZ****28,автомат,https://www.avito.ru/moskva/avtomobili/citroen_jumpy_2018_1366312771
+184,Citroen,C3,2018,внедорожник,1 460 000,1.2,оранжевый,передний,левый,бензин,,,,110 л.с.,,Z8TND5GX*GM****45,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c3_2018_1667877626
+185,Citroen,Berlingo,2005,фургон,205 000,1.4,серебряный,передний,левый,бензин,не битый,2,5.0,75 л.с.,145325 км,VF7GJKFW*93****40,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2005_1148100387
+186,Citroen,C4,2014,седан,690 000,1.6,чёрный,передний,левый,бензин,не битый,1,5.0,120 л.с.,37000 км,Z8TND5FS*EM****11,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2014_979446152
+187,Citroen,C4,2007,хетчбэк,250 000,1.6,белый,передний,левый,бензин,не битый,2,3.0,109 л.с.,98000 км,VF7LANFU*74****78,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2007_1379393484
+188,Citroen,C4,2011,хетчбэк,400 500,1.6,серый,передний,левый,бензин,не битый,1,,120 л.с.,93000 км,Z8TNC5FS*BM****18,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2011_1166162322
+189,Citroen,C4 Picasso,2010,минивэн,385 000,1.6,синий,передний,левый,бензин,не битый,1,,120 л.с.,110675 км,VF7UD5FW*9J****75,механика,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2010_1687237728
+190,Citroen,C2,2004,хетчбэк,170 000,1.4,зелёный,передний,левый,бензин,не битый,3,3.0,70 л.с.,203753 км,VF7JMKFV*97****09,механика,https://www.avito.ru/moskva/avtomobili/citroen_c2_2004_1232709777
+191,Citroen,Berlingo,2012,универсал,480 000,1.6,чёрный,передний,левый,бензин,не битый,1,5.0,120 л.с.,125000 км,VF77J5FS*CJ****66,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2012_1692505471
+192,Citroen,Jumper,2013,фургон,580 000,2.2,белый,передний,левый,дизель,не битый,1,,131 л.с.,345000 км,X9H37211*D6****39,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2013_1707911255
+193,Citroen,C4,2008,хетчбэк,183 000,1.6,чёрный,передний,левый,бензин,не битый,3,3.0,109 л.с.,127000 км,VF7LANFU*74****18,автомат,https://www.avito.ru/moskva_zelenograd/avtomobili/citroen_c4_2008_1230720902
+194,Citroen,Berlingo,2006,фургон,190 000,1.4,синий,передний,левый,дизель,не битый,3,3.0,68 л.с.,180000 км,VF7GJKFW*93****52,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2006_1300253867
+195,Citroen,C3,2009,хетчбэк,245 000,1.4,чёрный,передний,левый,бензин,не битый,2,,90 л.с.,89570 км,VF7FCKFU*9A****04,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c3_2009_1672500741
+196,Citroen,C4,2014,седан,585 000,1.6,коричневый,передний,левый,бензин,не битый,2,4.0,150 л.с.,76250 км,Z8TND5FE*EM****26,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2014_1432785285
+197,Citroen,C-Elysee,2013,седан,419 000,1.6,серебряный,передний,левый,бензин,не битый,1,,116 л.с.,102233 км,VF7DDNFP*DJ****39,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c-elysee_2013_529895914
+198,Citroen,Jumpy,2016,минивэн,1 600 000,2.0,чёрный,передний,левый,дизель,не битый,2,5.0,163 л.с.,79000 км,VF7XDRHH*GZ****46,автомат,https://www.avito.ru/moskva/avtomobili/citroen_jumpy_2016_931103845
+199,Citroen,C4 Picasso,2014,минивэн,797 000,1.6,серебряный,передний,левый,бензин,не битый,2,5.0,120 л.с.,14477 км,VF73D5FS*EJ****02,механика,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2014_1276788377
+200,Citroen,Jumper,2013,микроавтобус,1 050 000,2.3,белый,передний,левый,дизель,не битый,1,5.0,131 л.с.,140157 км,VF7YEZMF*12****69,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2013_1639800141
+201,Citroen,C4,2016,седан,799 000,1.6,серебряный,передний,левый,бензин,не битый,1,4.0,120 л.с.,45884 км,Z8TND5FS*GM****74,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2016_1569022530
+202,Citroen,DS4,2016,хетчбэк,1 150 000,1.6,белый,передний,левый,дизель,не битый,1,,120 л.с.,40000 км,VF7NXBHZ*GY****78,автомат,https://www.avito.ru/moskva/avtomobili/citroen_ds4_2016_1297618295
+203,Citroen,Jumper,2012,фургон,635 000,2.2,белый,передний,левый,дизель,не битый,1,2.0,110 л.с.,147000 км,VF7YAAMF*12****44,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2012_1235964404
+204,Citroen,C5,2011,универсал,570 000,1.6,серебряный,передний,левый,бензин,не битый,2,5.0,150 л.с.,137000 км,VF7RW5FN*BL****65,механика,https://www.avito.ru/moskva/avtomobili/citroen_c5_2011_1685782737
+205,Citroen,Berlingo,2008,минивэн,345 000,1.6,серебряный,передний,левый,бензин,не битый,3,,90 л.с.,139600 км,VF77JNFR*67****18,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2008_1612925723
+206,Citroen,C4,2012,хетчбэк,480 000,1.6,бежевый,передний,левый,бензин,не битый,1,,120 л.с.,95000 км,Z8TNC5FS*CM****39,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2012_1612746194
+207,Citroen,Jumper,2012,микроавтобус,1 055 000,2.2,белый,передний,левый,дизель,не битый,2,5.0,140 л.с.,122999 км,Z8PL3H2N*BC****08,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2012_1653936874
+208,Citroen,Jumper,2012,фургон,677 000,2.2,белый,передний,левый,дизель,не битый,1,2.0,131 л.с.,177000 км,VF7YAZMF*12****45,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2012_1279874688
+209,Citroen,Berlingo,2012,минивэн,440 000,1.6,голубой,передний,левый,бензин,не битый,1,5.0,120 л.с.,177000 км,VF77J5FS*CJ****75,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2012_1153132856
+210,Citroen,Jumper,2013,фургон,755 000,2.2,синий,передний,левый,дизель,не битый,2,2.0,131 л.с.,178000 км,VF7YDZMF*12****29,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2013_1503803483
+211,Citroen,C3,2008,хетчбэк,257 000,1.4,чёрный,передний,левый,бензин,не битый,1,5.0,88 л.с.,94351 км,VF7FCKFU*29****31,робот,https://www.avito.ru/moskva/avtomobili/citroen_c3_2008_1451481773
+212,Citroen,C5,2003,хетчбэк,35 000,2.0,синий,передний,правый,бензин, битый,4+,2.0,136 л.с.,120000 км,VF7DCRFN*76****61,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2003_1650974099
+213,Citroen,Berlingo,2012,минивэн,330 000,1.6,белый,передний,левый,бензин, битый,2,4.0,98 л.с.,96000 км,VF77JNFR*CJ****71,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2012_1107750850
+214,Citroen,Jumper,2009,фургон,430 000,2.3,красный,передний,левый,дизель,не битый,3,4.0,130 л.с.,30000 км,VF7YBAMF*11****78,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2009_1388950101
+215,Citroen,C-Elysee,2014,седан,549 000,1.6,серебряный,передний,левый,бензин,не битый,1,,115 л.с.,12500 км,VF7DDNFP*EJ****95,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c-elysee_2014_1027893662
+216,Citroen,C-Elysee,2013,седан,250 000,1.4,белый,передний,левый,бензин,не битый,1,4.0,105 л.с.,80000 км,VF7DDHMY*DJ****51,механика,https://www.avito.ru/moskva/avtomobili/citroen_c-elysee_2013_1419382104
+217,Citroen,C4,2017,седан,949 800,1.6,чёрный,передний,левый,бензин,не битый,1,,150 л.с.,60000 км,Z8TND5GX*HM****92,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2017_1478839470
+218,Citroen,C5,2008,седан,329 000,2.0,серебряный,передний,левый,бензин,не битый,2,4.0,143 л.с.,202000 км,VF7RDRFJ*54****34,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2008_1352655296
+219,Citroen,C-Crosser,2008,внедорожник,670 000,2.4,чёрный,полный,левый,бензин,не битый,1,,170 л.с.,50017 км,VF7VVSFZ*9U****31,вариатор,https://www.avito.ru/moskva/avtomobili/citroen_c-crosser_2008_1448796033
+220,Citroen,C4,2008,хетчбэк,258 000,1.6,голубой,передний,левый,бензин,не битый,3,3.0,120 л.с.,92000 км,VF7LA5FW*74****07,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2008_848701225
+221,Citroen,DS5,2012,хетчбэк,697 000,1.6,белый,передний,левый,бензин,не битый,2,5.0,150 л.с.,118695 км,VF7KF5FE*CS****73,автомат,https://www.avito.ru/moskva/avtomobili/citroen_ds5_2012_1441707504
+222,Citroen,DS4,2012,хетчбэк,610 000,1.6,коричневый,передний,левый,бензин,не битый,1,,120 л.с.,48131 км,VF7NX5FS*CY****79,механика,https://www.avito.ru/moskva/avtomobili/citroen_ds4_2012_1598473978
+223,Citroen,C5,2006,хетчбэк,310 000,2.0,чёрный,передний,левый,бензин,не битый,4+,5.0,140 л.с.,262000 км,VF7RCRFJ*76****68,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2006_1584499772
+224,Citroen,Berlingo,2011,минивэн,395 000,1.6,белый,передний,левый,бензин,не битый,2,,110 л.с.,91000 км,VF77JNFR*BJ****29,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2011_1230173829
+225,Citroen,DS3,2011,хетчбэк,459 000,1.6,жёлтый,передний,левый,бензин,не битый,2,,120 л.с.,62922 км,VF7SA5FS*BW****75,автомат,https://www.avito.ru/moskva/avtomobili/citroen_ds3_2011_1668610862
+226,Citroen,C3 Picasso,2009,минивэн,370 000,1.6,серый,передний,левый,бензин,не битый,1,5.0,115 л.с.,117000 км,VF7SH5FP*9T****21,механика,https://www.avito.ru/moskva/avtomobili/citroen_c3_picasso_2009_1394156193
+227,Citroen,C4,2007,купе,200 000,1.7,чёрный,передний,левый,бензин,не битый,2,3.0,108 л.с.,184000 км,VF7LANFU*74****68,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2007_1284547049
+228,Citroen,C4,2008,хетчбэк,295 000,1.6,чёрный,передний,левый,бензин,не битый,3,3.0,109 л.с.,122000 км,VF7LCNFU*74****78,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2008_1550214356
+229,Citroen,C4,2006,хетчбэк,199 000,1.6,фиолетовый,передний,левый,бензин,не битый,4+,5.0,109 л.с.,160000 км,VF7LANFU*74****57,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2006_1256890743
+230,Citroen,C4,2012,хетчбэк,515 000,1.6,чёрный,передний,левый,бензин,не битый,2,,120 л.с.,84000 км,Z8TNC5FS*BM****18,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2012_1415942325
+231,Citroen,C3,2002,хетчбэк,157 000,1.4,красный,передний,левый,бензин,не битый,3,5.0,73 л.с.,155000 км,VF7FCKFV*26****46,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c3_2002_1241883892
+232,Citroen,C-Elysee,2013,седан,295 000,1.2,серебряный,передний,левый,бензин,не битый,2,,72 л.с.,58000 км,VF7DDHMY*DJ****72,механика,https://www.avito.ru/moskva/avtomobili/citroen_c-elysee_2013_1722478202
+233,Citroen,Jumper,2012,фургон,669 000,2.2,белый,передний,левый,дизель,не битый,1,2.0,120 л.с.,173536 км,VF7YABMF*12****13,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2012_1670060752
+234,Citroen,C5,2010,седан,410 000,1.6,серебряный,передний,левый,бензин,не битый,3,5.0,150 л.с.,170000 км,VF7RD5FN*AL****71,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2010_1392993430
+235,Citroen,C4,2010,хетчбэк,329 000,1.6,серый,передний,левый,бензин,не битый,3,5.0,120 л.с.,98000 км,Z8TLC5FW*AM****22,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2010_1445268697
+236,Citroen,C5,2009,седан,479 000,2.0,синий,передний,левый,бензин,не битый,4+,4.0,140 л.с.,153165 км,VF7RDRFJ*9L****93,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2009_1680472689
+237,Citroen,C4,2018,седан,1 120 000,1.6,белый,передний,левый,бензин,,,,115 л.с.,,Z8TND5GX*HM****48,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2018_1210783132
+238,Citroen,Jumpy,2018,фургон,1 580 000,2.0,белый,передний,левый,дизель,,,,150 л.с.,,VF73A5GX*HJ****14,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumpy_2018_1629602798
+239,Citroen,Berlingo,2018,минивэн,1 455 000,1.6,серый,передний,левый,дизель,,,,90 л.с.,,VF77J9HP*JJ****02,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2018_1317015758
+240,Citroen,C3,2018,внедорожник,1 567 000,1.2,серебряный,передний,левый,бензин,,,,110 л.с.,,VF72RHNV*J4****71,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c3_2018_1203169114
+241,Citroen,Jumpy,2018,фургон,1 560 000,2.0,белый,передний,левый,дизель,,,,150 л.с.,,Z8TVFAHX*JM****88,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumpy_2018_1702895839
+242,Citroen,Jumper,2014,фургон,799 000,2.2,белый,передний,левый,дизель,не битый,1,2.0,131 л.с.,108772 км,X9H37211*E3****53,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2014_1577349998
+243,Citroen,C2,2005,хетчбэк,259 000,1.6,чёрный,полный,левый,бензин,не битый,4+,3.0,110 л.с.,103000 км,VF7JMNFU*97****76,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c2_2005_1332056443
+244,Citroen,DS4,2012,хетчбэк,519 000,1.6,белый,передний,левый,бензин,не битый,4+,5.0,150 л.с.,96500 км,VF7NX5FE*CY****12,автомат,https://www.avito.ru/moskva/avtomobili/citroen_ds4_2012_1147356532
+245,Citroen,C4,2012,хетчбэк,457 000,1.6,серый,передний,левый,бензин,не битый,3,5.0,120 л.с.,77242 км,Z8TNC5FS*CM****86,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2012_1498592244
+246,Citroen,C4,2012,хетчбэк,565 000,1.6,белый,передний,левый,бензин,не битый,1,,120 л.с.,60959 км,Z8TNC5FS*CM****50,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2012_1515128086
+247,Citroen,Jumper,2012,фургон,1 099 000,2.2,белый,передний,левый,дизель,не битый,2,2.0,120 л.с.,137218 км,XUS33278*C0****01,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2012_1252287643
+248,Citroen,C4,2010,хетчбэк,359 000,1.6,чёрный,передний,левый,бензин,не битый,2,5.0,120 л.с.,93000 км,Z8TLC5FW*AM****37,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2010_1302787327
+249,Citroen,DS4,2012,хетчбэк,540 000,1.6,коричневый,передний,левый,бензин,не битый,1,5.0,150 л.с.,84000 км,VF7NX5FE*CY****75,автомат,https://www.avito.ru/moskva/avtomobili/citroen_ds4_2012_1298299561
+250,Citroen,Xsara Picasso,2002,минивэн,110 000,1.8,пурпурный,передний,левый,бензин,не битый,2,,115 л.с.,186544 км,VF7CH6FZ*39****18,механика,https://www.avito.ru/moskva/avtomobili/citroen_xsara_picasso_2002_1630168942
+251,Citroen,C4,2005,хетчбэк,210 000,1.6,красный,передний,левый,бензин,не битый,4+,5.0,108 л.с.,165800 км,VF7LCNFU*74****36,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2005_1474253553
+252,Citroen,Jumper,2014,микроавтобус,1 090 000,2.2,белый,передний,левый,дизель,не битый,1,5.0,131 л.с.,103000 км,Z8PL3H2N*EC****30,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2014_1297723398
+253,Citroen,C3 Picasso,2011,универсал,340 000,1.4,серый,передний,левый,бензин,не битый,2,5.0,95 л.с.,89246 км,VF7SH8FP*BT****47,механика,https://www.avito.ru/moskva/avtomobili/citroen_c3_picasso_2011_1340401259
+254,Citroen,Berlingo,2017,фургон,1 300 000,1.6,белый,передний,левый,дизель,не битый,2,4.0,90 л.с.,38000 км,VF77L9HE*HJ****00,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2017_1407418708
+255,Citroen,Jumper,2014,фургон,1 175 000,2.2,белый,передний,левый,дизель,не битый,1,,131 л.с.,91000 км,X9H37211*EC****00,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2014_1657896180
+256,Citroen,C4,2012,хетчбэк,510 000,1.6,красный,передний,левый,бензин,не битый,2,5.0,120 л.с.,89500 км,Z8TNC5FS*BM****42,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2012_1623617903
+257,Citroen,Xsara Picasso,2001,минивэн,130 000,1.8,зелёный,передний,левый,бензин,не битый,3,5.0,115 л.с.,210000 км,VF7CH6FZ*39****88,механика,https://www.avito.ru/moskva/avtomobili/citroen_xsara_picasso_2001_1057944110
+258,Citroen,C5,2010,седан,370 000,1.6,чёрный,передний,левый,бензин,не битый,3,4.0,150 л.с.,150000 км,VF7RD5FN*AL****93,механика,https://www.avito.ru/moskva/avtomobili/citroen_c5_2010_1552926497
+259,Citroen,C5,2012,универсал,745 000,2.0,серый,передний,левый,дизель,не битый,3,5.0,136 л.с.,150000 км,VF7RWRHD*CL****23,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2012_1633971173
+260,Citroen,C4 Picasso,2008,минивэн,360 000,1.6,серый,передний,левый,дизель,не битый,1,5.0,109 л.с.,201300 км,VF7UA9HZ*45****18,механика,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2008_1344626083
+261,Citroen,Jumper,2018,фургон,1 662 400,2.2,белый,передний,левый,дизель,,,,130 л.с.,,VF7YATMF*12****34,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2018_1649866923
+262,Citroen,C4,2006,хетчбэк,155 000,1.6,чёрный,передний,левый,бензин,не битый,3,4.0,108 л.с.,136000 км,VF7LANFU*74****49,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2006_1522870784
+263,Citroen,Xsara Picasso,2006,минивэн,310 000,2.0,красный,передний,левый,бензин,не битый,3,5.0,136 л.с.,139000 км,VF7CHRFN*25****39,автомат,https://www.avito.ru/moskva/avtomobili/citroen_xsara_picasso_2006_1510713280
+264,Citroen,DS3,2011,хетчбэк,397 000,1.6,синий,передний,левый,бензин,не битый,2,,120 л.с.,132000 км,VF7SA5FS*BW****94,механика,https://www.avito.ru/moskva/avtomobili/citroen_ds3_2011_1464586542
+265,Citroen,C4,2011,хетчбэк,450 000,1.6,синий,передний,левый,бензин,не битый,3,5.0,120 л.с.,145000 км,Z8TNC5FS*BM****85,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2011_1267439923
+266,Citroen,C4,2008,хетчбэк,258 000,1.6,серый,передний,левый,бензин,не битый,2,,109 л.с.,106250 км,VF7LCNFU*74****02,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2008_1567466391
+267,Citroen,DS4,2012,хетчбэк,575 000,1.6,чёрный,передний,левый,бензин,не битый,1,5.0,150 л.с.,84000 км,VF7NX5FE*CY****45,автомат,https://www.avito.ru/moskva/avtomobili/citroen_ds4_2012_1311105577
+268,Citroen,Berlingo,2011,фургон,355 000,1.6,белый,передний,левый,бензин,не битый,1,,90 л.с.,125000 км,VF77ANFR*BJ****74,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2011_1284841047
+269,Citroen,C4,2011,хетчбэк,465 000,1.6,красный,передний,левый,бензин,не битый,1,,120 л.с.,96862 км,Z8TLC5FW*AM****15,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2011_1479760100
+270,Citroen,C4 Picasso,2012,минивэн,600 000,1.6,белый,передний,левый,бензин,не битый,3,5.0,150 л.с.,82000 км,VF7UA5FN*CJ****78,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2012_1591652558
+271,Citroen,C3 Picasso,2013,минивэн,560 000,1.6,серый,передний,левый,бензин,не битый,2,,115 л.с.,83101 км,VF7SH5FJ*DT****64,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c3_picasso_2013_1621963240
+272,Citroen,DS4,2012,хетчбэк,620 000,1.6,белый,передний,левый,бензин,не битый,2,5.0,150 л.с.,63967 км,VF7NX5FE*CY****71,автомат,https://www.avito.ru/moskva/avtomobili/citroen_ds4_2012_1309777370
+273,Citroen,Berlingo,2005,минивэн,160 000,1.4,зелёный,передний,левый,бензин,не битый,3,5.0,75 л.с.,373000 км,VF7GJKFW*93****56,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2005_1621393133
+274,Citroen,C4,2009,хетчбэк,299 000,1.6,чёрный,передний,левый,бензин,не битый,2,3.0,120 л.с.,105700 км,VF7LC5FW*9Y****89,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2009_1442086922
+275,Citroen,Jumper,2013,фургон,770 000,2.2,белый,передний,левый,дизель,не битый,2,4.0,131 л.с.,150000 км,VF7YBZMF*12****03,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2013_1568791655
+276,Citroen,Berlingo,2013,универсал,519 000,1.6,белый,передний,левый,бензин,не битый,2,5.0,120 л.с.,207147 км,VF77J5FS*DJ****99,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2013_1707952815
+277,Citroen,DS4,2012,хетчбэк,760 000,1.6,коричневый,передний,левый,бензин,не битый,1,5.0,150 л.с.,85279 км,VF7NX5FE*CY****56,автомат,https://www.avito.ru/moskva/avtomobili/citroen_ds4_2012_995755985
+278,Citroen,C4,2012,хетчбэк,420 000,1.6,чёрный,передний,левый,бензин,не битый,2,4.0,110 л.с.,150000 км,Z8TNCNFU*CM****39,механика,https://www.avito.ru/moskva/avtomobili/citroen_c4_2012_1505107449
+279,Citroen,Berlingo,2011,хетчбэк,385 000,1.6,серый,передний,левый,бензин,не битый,2,5.0,90 л.с.,79564 км,VF77JNFR*AJ****72,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2011_1464577837
+280,Citroen,C4,2016,седан,770 000,1.6,синий,передний,левый,бензин,не битый,1,4.0,115 л.с.,31000 км,Z8TNDNFP*GM****24,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2016_1382685366
+281,Citroen,C4,2014,седан,488 000,1.6,белый,передний,левый,бензин,не битый,3,,120 л.с.,103000 км,Z8TND5FS*EM****79,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2014_1489905206
+282,Citroen,C4,2012,хетчбэк,450 000,1.6,белый,передний,левый,бензин,не битый,1,5.0,120 л.с.,156000 км,Z8TNC5FS*CM****39,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2012_1605854542
+283,Citroen,C4,2013,седан,475 000,1.6,белый,передний,левый,бензин,не битый,3,4.0,120 л.с.,55600 км,Z8TND5FS*DM****65,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2013_1334813400
+284,Citroen,C5,2004,хетчбэк,240 000,2.2,серый,передний,левый,дизель,не битый,2,4.0,133 л.с.,280000 км,VF7DC4HX*76****03,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2004_1375468353
+285,Citroen,C5,2012,седан,470 000,1.6,чёрный,передний,левый,бензин,не битый,1,4.0,150 л.с.,115000 км,VF7RD5FE*CL****20,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2012_1677836719
+286,Citroen,C5,2009,седан,465 000,1.7,серебряный,передний,левый,бензин,не битый,1,4.0,127 л.с.,115226 км,VF7RD6FY*9L****63,механика,https://www.avito.ru/moskva/avtomobili/citroen_c5_2009_1425235697
+287,Citroen,C-Elysee,2013,седан,429 000,1.6,синий,передний,левый,бензин,не битый,2,4.0,116 л.с.,84400 км,VF7DDNFP*DJ****39,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c-elysee_2013_1311913852
+288,Citroen,C5,2003,седан,199 000,2.0,серый,передний,левый,бензин,не битый,3,4.0,136 л.с.,74000 км,VF7DCRFN*76****37,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2003_1331007190
+289,Citroen,C3,2010,хетчбэк,275 000,1.4,серый,передний,левый,бензин,не битый,2,5.0,73 л.с.,112000 км,VF7SCKFT*AA****55,механика,https://www.avito.ru/moskva/avtomobili/citroen_c3_2010_927974328
+290,Citroen,Jumper,2011,фургон,650 000,2.2,белый,передний,левый,дизель,не битый,2,,101 л.с.,240000 км,VF7YAAMF*12****21,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2011_1512163791
+291,Citroen,C4,2008,хетчбэк,175 000,1.6,белый,передний,левый,бензин,не битый,4+,3.0,109 л.с.,140130 км,VF7LANFU*74****84,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2008_1661681723
+292,Citroen,Jumper,2013,фургон,629 000,2.2,белый,передний,левый,дизель,не битый,1,,131 л.с.,234187 км,X9H37211*D5****57,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2013_965252032
+293,Citroen,DS4,2012,хетчбэк,60 000,1.6,чёрный,передний,левый,бензин, битый,3,5.0,150 л.с.,45000 км,VF7NX5FE*CY****03,автомат,https://www.avito.ru/moskva/avtomobili/citroen_ds4_2012_1565968068
+294,Citroen,Xsara Picasso,2006,минивэн,249 500,1.6,бежевый,передний,левый,бензин,не битый,2,5.0,110 л.с.,204268 км,VF7CHNFU*25****49,механика,https://www.avito.ru/moskva/avtomobili/citroen_xsara_picasso_2006_1030858236
+295,Citroen,C4 Picasso,2017,минивэн,1 824 000,1.6,белый,передний,левый,дизель,не битый,1,5.0,120 л.с.,3790 км,VF73ABHZ*HJ****34,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2017_1447993315
+296,Citroen,C4,2013,седан,535 000,1.6,серый,передний,левый,бензин,не битый,1,4.0,150 л.с.,39000 км,Z8TND5FE*DM****33,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2013_1679734648
+297,Citroen,C3 Picasso,2011,минивэн,290 000,1.4,белый,передний,левый,бензин,не битый,2,5.0,100 л.с.,118301 км,VF7SH5FJ*BT****88,механика,https://www.avito.ru/moskva/avtomobili/citroen_c3_picasso_2011_1672477863
+298,Citroen,C3,2009,хетчбэк,165 000,1.4,белый,передний,левый,бензин,не битый,4+,5.0,73 л.с.,127000 км,VF7FCKFV*9A****59,механика,https://www.avito.ru/moskva/avtomobili/citroen_c3_2009_1501244759
+299,Citroen,C-Crosser,2010,внедорожник,795 000,2.2,серый,полный,левый,дизель,не битый,2,5.0,156 л.с.,176000 км,VF7VV4HN*AZ****22,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c-crosser_2010_1512810389
+300,Citroen,C4,2018,седан,1 299 000,1.6,белый,передний,левый,бензин,,,,115 л.с.,,Z8TNDNFP*JM****22,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2018_1242566481
+301,Citroen,Jumpy,2017,фургон,1 604 500,2.0,белый,передний,левый,дизель,,,,150 л.с.,,VF7VFAHX*HZ****43,автомат,https://www.avito.ru/moskva/avtomobili/citroen_jumpy_2017_1350515681
+302,Citroen,C4,2018,седан,1 100 000,1.6,белый,передний,левый,бензин,,,,115 л.с.,,Z8TNDNFP*JM****71,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2018_1552100251
+303,Citroen,Jumper,2001,фургон,180 000,2.5,белый,передний,левый,дизель,не битый,4+,4.0,86 л.с.,250000 км,VF7231A5*16****63,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2001_1653556101
+304,Citroen,Berlingo,2013,фургон,400 000,1.6,белый,передний,левый,дизель,не битый,2,4.0,90 л.с.,138000 км,VF77R9HE*DJ****75,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2013_1652104026
+305,Citroen,C4,2016,седан,887 000,1.6,коричневый,передний,левый,бензин,не битый,1,4.0,150 л.с.,27387 км,Z8TND5GX*GM****89,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2016_1408851688
+306,Citroen,C4,2014,седан,308 000,1.6,жёлтый,передний,левый,бензин, битый,1,5.0,116 л.с.,40000 км,Z8TNDNFP*EM****61,механика,https://www.avito.ru/moskva/avtomobili/citroen_c4_2014_1146437052
+307,Citroen,C4,2014,седан,263 000,1.6,жёлтый,передний,левый,бензин,не битый,1,5.0,116 л.с.,178682 км,Z8TNDNFP*EM****61,механика,https://www.avito.ru/moskva/avtomobili/citroen_c4_2014_1046235269
+308,Citroen,Berlingo,2010,универсал,150 000,1.5,красный,передний,левый,бензин,не битый,2,5.0,75 л.с.,320000 км,VF7GJKFW*AX****54,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2010_1688420408
+309,Citroen,C5,2008,седан,420 000,2.0,синий,передний,левый,бензин,не битый,3,4.0,143 л.с.,146000 км,VF7RDRFJ*54****66,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2008_1333879969
+310,Citroen,C4,2016,седан,1 100 000,1.6,белый,передний,левый,бензин,не битый,1,4.0,120 л.с.,5000 км,Z8TND5FS*GM****95,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2016_996042849
+311,Citroen,C1,2009,хетчбэк,245 000,1.0,красный,передний,левый,бензин,не битый,2,3.0,68 л.с.,103500 км,VF7PMCFA*89****82,робот,https://www.avito.ru/moskva/avtomobili/citroen_c1_2009_1528238163
+312,Citroen,C4,2014,седан,319 000,1.6,жёлтый,передний,левый,бензин, битый,1,5.0,116 л.с.,40000 км,Z8TNDNFP*EM****60,механика,https://www.avito.ru/moskva/avtomobili/citroen_c4_2014_1185567816
+313,Citroen,C4,2011,хетчбэк,395 000,1.6,чёрный,передний,левый,бензин,не битый,3,,120 л.с.,85000 км,Z8TNC5FS*BM****90,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2011_1015871574
+314,Citroen,C4,2014,седан,90 000,1.6,жёлтый,передний,левый,бензин, битый,1,5.0,115 л.с.,40000 км,Z8TNDNFP*EM****31,механика,https://www.avito.ru/moskva/avtomobili/citroen_c4_2014_958439353
+315,Citroen,Berlingo,2008,фургон,218 000,1.4,белый,передний,левый,бензин,не битый,3,5.0,75 л.с.,235000 км,VF7GCKFW*8J****63,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2008_1282740948
+316,Citroen,C4,2014,седан,344 000,1.6,жёлтый,передний,левый,бензин,не битый,1,5.0,116 л.с.,25001 км,Z8TNDNFP*EM****36,механика,https://www.avito.ru/moskva/avtomobili/citroen_c4_2014_1012219357
+317,Citroen,Berlingo,2013,универсал,389 000,1.6,белый,передний,левый,бензин,не битый,1,5.0,90 л.с.,189674 км,VF77JNFR*DJ****34,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2013_1703148720
+318,Citroen,C-Crosser,2012,внедорожник,745 000,2.0,серый,полный,левый,бензин,не битый,1,5.0,147 л.с.,116726 км,Z8TVUAFZ*CM****16,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c-crosser_2012_1630838034
+319,Citroen,C4 Picasso,2010,минивэн,450 000,1.6,фиолетовый,передний,левый,бензин,не битый,4+,5.0,156 л.с.,72000 км,VF7UD5FV*AJ****64,робот,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2010_1647554292
+320,Citroen,Berlingo,2012,минивэн,435 000,1.6,белый,передний,левый,бензин,не битый,2,5.0,90 л.с.,79000 км,VF77JNFR*CJ****44,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2012_1626777961
+321,Citroen,C4,2014,седан,510 000,1.6,белый,передний,левый,бензин,не битый,1,,120 л.с.,63000 км,Z8TND5FS*DM****17,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2014_1369191168
+322,Citroen,C4,2006,хетчбэк,235 000,1.6,серебряный,передний,левый,бензин,не битый,2,5.0,109 л.с.,104000 км,VF7LCNFU*74****27,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2006_1379633078
+323,Citroen,C4 Picasso,2007,минивэн,315 000,2.0,красный,передний,левый,бензин,не битый,2,,140 л.с.,129000 км,VF7UDRFJ*45****41,робот,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2007_1622426360
+324,Citroen,Berlingo,2013,минивэн,215 000,1.6,белый,передний,левый,бензин,не битый,2,4.0,90 л.с.,105000 км,VF77JNFR*DJ****49,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2013_1640968755
+325,Citroen,Berlingo,2015,фургон,505 000,1.6,белый,передний,левый,бензин,не битый,1,,110 л.с.,102689 км,VF77LNFU*FJ****48,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2015_1351696950
+326,Citroen,Berlingo,2017,минивэн,1 100 000,1.6,синий,передний,левый,бензин,не битый,1,5.0,120 л.с.,15000 км,VF77J5FS*HJ****40,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2017_1153221141
+327,Citroen,DS4,2012,хетчбэк,595 000,1.6,белый,передний,левый,бензин,не битый,4+,5.0,150 л.с.,106000 км,VF7NX5FE*CY****43,автомат,https://www.avito.ru/moskva/avtomobili/citroen_ds4_2012_1229284057
+328,Citroen,C4,2013,седан,600 000,1.6,фиолетовый,передний,левый,бензин,не битый,1,5.0,116 л.с.,43000 км,Z8TNDNFP*DM****74,механика,https://www.avito.ru/moskva/avtomobili/citroen_c4_2013_1153799061
+329,Citroen,C5,2009,седан,482 999,2.0,серебряный,передний,левый,бензин,не битый,2,4.0,140 л.с.,217000 км,VF7RDRFJ*54****07,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2009_1705622132
+330,Citroen,C3,2012,хетчбэк,335 000,1.4,белый,передний,левый,бензин,не битый,2,5.0,95 л.с.,91000 км,VF7SC8FP*BW****87,робот,https://www.avito.ru/moskva/avtomobili/citroen_c3_2012_1463864063
+331,Citroen,C4,2011,хетчбэк,420 000,1.6,серый,передний,левый,бензин,не битый,3,5.0,120 л.с.,117000 км,Z8TNC5FS*BM****34,автомат,https://www.avito.ru/moskva_zelenograd/avtomobili/citroen_c4_2011_1275957271
+332,Citroen,C-Crosser,2011,внедорожник,715 000,2.4,серый,полный,левый,бензин,не битый,1,,170 л.с.,153000 км,Z8TVUSFZ*BM****80,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c-crosser_2011_1132998697
+333,Citroen,C4,2014,седан,469 000,1.6,белый,передний,левый,бензин,не битый,1,,115 л.с.,132000 км,Z8TNDNFP*EM****36,механика,https://www.avito.ru/moskva/avtomobili/citroen_c4_2014_1168469830
+334,Citroen,C4,2012,хетчбэк,445 000,1.6,коричневый,передний,левый,бензин,не битый,1,5.0,120 л.с.,119090 км,Z8TNC5FS*CM****05,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2012_1539762098
+335,Citroen,Jumper,2010,фургон,569 000,2.2,белый,передний,левый,дизель,не битый,4+,,120 л.с.,98450 км,VF7YBBMF*11****96,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2010_1192623085
+336,Citroen,C-Crosser,2012,внедорожник,742 000,2.4,белый,полный,левый,бензин,не битый,1,,170 л.с.,72000 км,Z8TVUSFZ*CM****43,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c-crosser_2012_1387533724
+337,Citroen,C4,2011,хетчбэк,399 000,1.6,чёрный,передний,левый,бензин,не битый,1,,120 л.с.,90000 км,Z8TNC5FS*BM****02,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2011_1237344752
+338,Citroen,C3,2004,хетчбэк,210 000,1.6,бежевый,передний,левый,бензин,не битый,2,5.0,108 л.с.,60000 км,VF7FCNFU*27****61,робот,https://www.avito.ru/moskva/avtomobili/citroen_c3_2004_1211984242
+339,Citroen,C4,2012,хетчбэк,540 000,1.6,красный,передний,левый,бензин,не битый,1,,120 л.с.,76418 км,VF7NC5FS*CY****11,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2012_1416272519
+340,Citroen,C4 Picasso,2007,минивэн,410 000,1.6,чёрный,передний,левый,дизель,не битый,3,5.0,109 л.с.,115000 км,VF7UA9HZ*45****18,робот,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2007_1017634134
+341,Citroen,Berlingo,2010,минивэн,480 000,1.6,голубой,передний,левый,бензин,не битый,2,4.0,110 л.с.,121347 км,VF77JNFU*AJ****93,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2010_1082867791
+342,Citroen,C4,2015,седан,750 000,1.6,серебряный,передний,левый,бензин,не битый,1,,150 л.с.,33000 км,Z8TND5FE*FM****83,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2015_1720754408
+343,Citroen,Berlingo,2007,универсал,190 000,1.4,бежевый,передний,левый,бензин,не битый,3,,74 л.с.,120000 км,VF7GJKFW*93****78,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2007_1239629080
+344,Citroen,C4,2011,купе,390 000,1.6,чёрный,передний,левый,бензин,не битый,1,3.0,120 л.с.,55000 км,VF7LA5FW*AY****65,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2011_882243819
+345,Citroen,C4,2015,седан,670 000,1.6,серебряный,передний,левый,бензин,не битый,1,,120 л.с.,73323 км,Z8TND5FS*FM****51,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2015_1599744351
+346,Citroen,C5,2012,седан,675 000,1.6,серый,передний,левый,бензин,не битый,2,5.0,150 л.с.,72500 км,VF7RD5FE*CL****95,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2012_1615115374
+347,Citroen,Saxo,2001,хетчбэк,70 000,1.1,серебряный,передний,левый,бензин,не битый,3,4.0,60 л.с.,300000 км,VF7S1HFX*57****18,механика,https://www.avito.ru/moskva/avtomobili/citroen_saxo_2001_1260960002
+348,Citroen,C4 Picasso,2014,минивэн,952 000,1.6,чёрный,передний,левый,дизель,не битый,2,5.0,116 л.с.,61500 км,VF73A9HC*EJ****33,робот,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2014_1006876566
+349,Citroen,C3,2011,хетчбэк,340 000,1.4,голубой,передний,правый,бензин,не битый,1,5.0,95 л.с.,70000 км,VF7SC8FP*BW****32,робот,https://www.avito.ru/moskva/avtomobili/citroen_c3_2011_1390861883
+350,Citroen,C4 Picasso,2008,хетчбэк,235 000,2.0,фиолетовый,передний,левый,бензин,не битый,3,5.0,140 л.с.,137000 км,VF7UDRFJ*45****92,робот,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2008_1462190480
+351,Citroen,Jumper,2011,микроавтобус,420 000,2.2,белый,передний,левый,дизель,не битый,1,5.0,120 л.с.,101000 км,XUS2227W*B0****44,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2011_1304648273
+352,Citroen,C3,2006,хетчбэк,215 000,1.4,синий,передний,левый,бензин,не битый,4+,5.0,73 л.с.,123000 км,VF7FCKFV*28****76,механика,https://www.avito.ru/moskva/avtomobili/citroen_c3_2006_1220874359
+353,Citroen,C4 Picasso,2010,универсал,280 000,1.6,серый,передний,левый,бензин,не битый,3,5.0,115 л.с.,170000 км,VF7UA5FV*AJ****43,робот,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2010_946559460
+354,Citroen,C3,2004,хетчбэк,180 000,1.6,красный,передний,левый,бензин,не битый,2,4.0,109 л.с.,156000 км,VF7FCNFU*27****17,робот,https://www.avito.ru/moskva/avtomobili/citroen_c3_2004_1182718675
+355,Citroen,C5,2008,седан,430 000,2.0,чёрный,передний,левый,бензин,не битый,2,4.0,140 л.с.,98000 км,VF7RDRFJ*54****42,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2008_1314678585
+356,Citroen,C6,2008,седан,600 000,2.7,коричневый,передний,левый,дизель,не битый,2,4.0,204 л.с.,144000 км,VF7TDUHZ*78****49,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c6_2008_1488008530
+357,Citroen,C5,2003,седан,100 000,2.0,серебряный,передний,левый,бензин,не битый,2,4.0,136 л.с.,250000 км,VF7DCRFN*76****78,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2003_1276144922
+358,Citroen,Berlingo,2010,седан,255 000,1.4,красный,передний,левый,бензин,не битый,3,5.0,75 л.с.,150000 км,VF7GJKFW*AX****22,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2010_1149639093
+359,Citroen,Berlingo,2013,минивэн,465 000,1.6,серый,передний,левый,бензин,не битый,1,5.0,120 л.с.,158000 км,VF77J5FS*DJ****33,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2013_1416360505
+360,Citroen,Berlingo,2011,минивэн,470 000,1.6,голубой,передний,левый,бензин,не битый,2,5.0,120 л.с.,95000 км,VF77J5FS*BJ****42,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2011_1650912240
+361,Citroen,Jumper,2018,фургон,1 592 900,2.2,белый,передний,левый,дизель,,,,130 л.с.,,VF7YATMF*12****74,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2018_1257730145
+362,Citroen,C4,2008,хетчбэк,265 000,1.6,красный,передний,левый,бензин,не битый,2,3.0,109 л.с.,141000 км,VF7LCNFU*74****71,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2008_1426217621
+363,Citroen,C-Elysee,2014,седан,419 000,1.6,серебряный,передний,левый,бензин,не битый,2,4.0,115 л.с.,44733 км,VF7DDNFP*EJ****91,механика,https://www.avito.ru/moskva/avtomobili/citroen_c-elysee_2014_1449428610
+364,Citroen,Jumper,2018,фургон,1 642 900,2.2,белый,передний,левый,дизель,,,,130 л.с.,,VF7YATMF*12****79,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2018_1477057997
+365,Citroen,Jumper,2018,фургон,1 782 400,2.2,серый,передний,левый,дизель,,,,130 л.с.,,VF7YATMF*12****03,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2018_1721544358
+366,Citroen,C4,2011,хетчбэк,310 000,1.6,синий,передний,левый,бензин,не битый,2,5.0,120 л.с.,118000 км,Z8TLC5FW*AM****22,механика,https://www.avito.ru/moskva/avtomobili/citroen_c4_2011_1394443761
+367,Citroen,Berlingo,2010,минивэн,440 000,1.6,бежевый,передний,левый,бензин,не битый,1,5.0,90 л.с.,150000 км,VF77JNFR*AJ****42,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2010_1608808430
+368,Citroen,C4 Aircross,2012,внедорожник,664 000,2.0,чёрный,передний,левый,бензин,не битый,1,,150 л.с.,116141 км,VF7BUAFZ*CZ****70,вариатор,https://www.avito.ru/moskva/avtomobili/citroen_c4_aircross_2012_1108650350
+369,Citroen,C5,2011,седан,460 000,1.6,бежевый,передний,левый,бензин,не битый,1,4.0,150 л.с.,91457 км,VF7RD5FE*BL****01,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2011_1263136002
+370,Citroen,Xsara Picasso,2003,минивэн,180 000,1.8,зелёный,передний,левый,бензин,не битый,3,5.0,118 л.с.,370000 км,VF7CH6FZ*39****62,механика,https://www.avito.ru/moskva/avtomobili/citroen_xsara_picasso_2003_1238479130
+371,Citroen,Grand C4 Picasso,2017,минивэн,2 075 000,1.6,серый,передний,левый,бензин,,,,150 л.с.,,VF73ABHZ*HJ****25,автомат,https://www.avito.ru/moskva/avtomobili/citroen_grand_c4_picasso_2017_1602762217
+372,Citroen,Jumpy,2018,фургон,1 259 900,1.6,белый,передний,левый,дизель,,,,90 л.с.,,Z8TVB9HF*JM****94,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumpy_2018_1415952408
+373,Citroen,Другая,2018,минивэн,2 889 900,2.0,коричневый,передний,левый,дизель,,,,150 л.с.,,Z8TVEAHX*JM****95,автомат,https://www.avito.ru/moskva/avtomobili/citroen_2018_960006038
+374,Citroen,Berlingo,2018,минивэн,1 437 000,1.6,белый,передний,левый,дизель,,,,90 л.с.,,VF77J9HP*JJ****56,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2018_1674595049
+375,Citroen,C4,2007,хетчбэк,210 000,1.6,красный,передний,левый,бензин,не битый,3,2.0,180 л.с.,152000 км,VF7LANFU*74****62,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2007_1400840314
+376,Citroen,C4,2008,хетчбэк,225 000,1.6,чёрный,передний,левый,бензин,не битый,2,,109 л.с.,125000 км,VF7LANFU*74****24,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2008_1617578715
+377,Citroen,Jumper,2011,фургон,580 000,2.2,красный,передний,левый,дизель,не битый,3,4.0,101 л.с.,130000 км,VF7YAAMF*12****74,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2011_1684732343
+378,Citroen,C5,2010,седан,459 000,1.6,чёрный,передний,левый,бензин,не битый,3,,150 л.с.,125200 км,VF7RD5FN*AL****83,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2010_1296444394
+379,Citroen,C4,2010,хетчбэк,30 000,1.6,чёрный,передний,левый,бензин, битый,3,5.0,88 л.с.,135000 км,Z8TLC5FW*AM****96,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2010_1030048539
+380,Citroen,Berlingo,2009,минивэн,380 000,1.6,серебряный,передний,левый,бензин,не битый,2,,90 л.с.,73860 км,VF77JNFR*9J****48,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2009_1250938574
+381,Citroen,Jumper,2012,фургон,600 000,2.2,белый,передний,левый,дизель,не битый,3,4.0,120 л.с.,215000 км,VF7YBBMF*12****94,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2012_1633488875
+382,Citroen,Berlingo,2008,хетчбэк,220 000,1.9,белый,передний,левый,дизель,не битый,2,3.0,69 л.с.,245000 км,VF7GCWJY*8N****87,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2008_1193946046
+383,Citroen,C5,2010,седан,510 000,1.6,серый,передний,левый,бензин,не битый,2,,150 л.с.,69267 км,VF7RD5FN*AL****79,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2010_1144177299
+384,Citroen,Berlingo,2008,универсал,240 000,1.4,красный,передний,левый,бензин,не битый,4+,,75 л.с.,200000 км,VF7GJKFW*8N****61,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2008_1399079314
+385,Citroen,C-Crosser,2008,внедорожник,615 000,2.4,чёрный,полный,левый,бензин,не битый,3,,170 л.с.,157767 км,VF7VVSFZ*8U****30,вариатор,https://www.avito.ru/moskva/avtomobili/citroen_c-crosser_2008_1444840984
+386,Citroen,C4,2011,хетчбэк,288 000,1.6,красный,передний,левый,бензин,не битый,1,5.0,120 л.с.,95000 км,Z8TLC5FW*AM****29,механика,https://www.avito.ru/moskva/avtomobili/citroen_c4_2011_1536024380
+387,Citroen,C4,2013,седан,400 000,1.6,коричневый,передний,левый,бензин,не битый,4+,5.0,150 л.с.,89000 км,Z8TND5FE*DM****61,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2013_1683416451
+388,Citroen,C-Elysee,2014,седан,185 000,1.6,белый,передний,левый,бензин, битый,1,4.0,105 л.с.,56000 км,VF7DDNFP*EJ****13,механика,https://www.avito.ru/moskva/avtomobili/citroen_c-elysee_2014_1344628535
+389,Citroen,Berlingo,2014,универсал,520 000,1.6,белый,передний,левый,бензин,не битый,1,4.0,110 л.с.,100000 км,VF77JNFU*EJ****71,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2014_1360175974
+390,Citroen,Jumper,2011,фургон,790 000,2.2,белый,передний,левый,дизель,не битый,2,4.0,120 л.с.,275000 км,VF7YBBMF*11****30,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2011_1523151116
+391,Citroen,C2,2004,хетчбэк,60 000,1.6,серебряный,передний,левый,бензин, битый,3,2.0,110 л.с.,90000 км,VF7JMNFU*97****70,робот,https://www.avito.ru/moskva/avtomobili/citroen_c2_2004_1695290559
+392,Citroen,C5,2009,седан,390 000,2.0,синий,передний,левый,бензин,не битый,4+,4.0,140 л.с.,222000 км,VF7RDRFJ*9L****14,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2009_1423894920
+393,Citroen,Xsara Picasso,2004,минивэн,230 000,2.0,синий,передний,левый,бензин,не битый,2,5.0,134 л.с.,240000 км,VF7CHRFN*39****74,автомат,https://www.avito.ru/moskva/avtomobili/citroen_xsara_picasso_2004_1708126021
+394,Citroen,C4,2008,хетчбэк,295 000,1.6,красный,передний,левый,бензин,не битый,2,5.0,120 л.с.,133218 км,VF7LA5FW*74****54,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2008_1268003724
+395,Citroen,C3,2011,хетчбэк,440 000,1.4,чёрный,передний,левый,бензин,не битый,2,,95 л.с.,19000 км,VF7SC8FP*BW****00,робот,https://www.avito.ru/moskva/avtomobili/citroen_c3_2011_1082834984
+396,Citroen,C4,2006,хетчбэк,199 000,1.6,красный,передний,левый,бензин,не битый,3,,110 л.с.,122259 км,VF7LANFU*74****07,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2006_1677964124
+397,Citroen,C4,2007,хетчбэк,290 000,1.6,бежевый,передний,левый,бензин,не битый,1,5.0,109 л.с.,70163 км,VF7LCNFU*74****91,механика,https://www.avito.ru/moskva/avtomobili/citroen_c4_2007_1131081965
+398,Citroen,C4,2012,хетчбэк,385 000,1.6,белый,передний,левый,бензин,не битый,1,4.0,120 л.с.,100700 км,Z8TNC5FS*BM****82,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2012_1424155225
+0,Citroen,Jumpy,2018,фургон,1 359 900,2.0,белый,передний,левый,дизель,,,,150 л.с.,,Z8TVFAHX*JM****46,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumpy_2018_1159669596
+1,Citroen,Jumpy,2018,фургон,1 409 900,1.6,белый,передний,левый,дизель,,,,90 л.с.,,Z8TVB9HF*JM****57,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumpy_2018_1719029936
+2,Citroen,Jumpy,2018,фургон,1 409 900,1.6,белый,передний,левый,дизель,,,,90 л.с.,,Z8TVB9HF*JM****61,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumpy_2018_1339626221
+3,Citroen,Jumpy,2018,фургон,1 631 900,2.0,белый,передний,левый,дизель,,,,150 л.с.,,VF7VFAHX*JZ****54,автомат,https://www.avito.ru/moskva/avtomobili/citroen_jumpy_2018_1209163548
+4,Citroen,Jumpy,2018,фургон,1 631 900,2.0,белый,передний,левый,дизель,,,,150 л.с.,,VF7VFAHX*JZ****99,автомат,https://www.avito.ru/moskva/avtomobili/citroen_jumpy_2018_1447111677
+5,Citroen,Jumpy,2018,фургон,1 631 900,2.0,белый,передний,левый,дизель,,,,150 л.с.,,VF7VFAHX*JZ****79,автомат,https://www.avito.ru/moskva/avtomobili/citroen_jumpy_2018_1246724872
+6,Citroen,Jumpy,2018,фургон,1 631 900,1.6,белый,передний,левый,дизель,,,,150 л.с.,,VF7VFAHX*JZ****03,автомат,https://www.avito.ru/moskva/avtomobili/citroen_jumpy_2018_1034692018
+7,Citroen,Jumpy,2018,фургон,1 529 900,2.0,белый,передний,левый,дизель,,,,150 л.с.,,Z8TVFAHX*JM****78,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumpy_2018_1441406683
+8,Citroen,Jumpy,2018,фургон,1 631 900,2.0,белый,передний,левый,дизель,,,,150 л.с.,,VF7VFAHX*JZ****00,автомат,https://www.avito.ru/moskva/avtomobili/citroen_jumpy_2018_1714804528
+9,Citroen,Jumpy,2018,фургон,1 529 900,2.0,белый,передний,левый,дизель,,,,150 л.с.,,Z8TVFAHX*JM****82,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumpy_2018_1061022187
+10,Citroen,C4 Picasso,2014,минивэн,799 000,1.6,красный,передний,левый,дизель,не битый,1,,115 л.с.,38231 км,VF73D9HC*EJ****91,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2014_1621252823
+11,Citroen,C4,2009,хетчбэк,290 000,1.6,чёрный,передний,левый,бензин,не битый,3,4.0,120 л.с.,89000 км,VF7LC5FW*9Y****81,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2009_1532654842
+12,Citroen,Jumper,2016,микроавтобус,1 340 000,2.2,белый,передний,левый,дизель,не битый,3,5.0,131 л.с.,35095 км,XU622085*G0****11,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2016_1708898144
+13,Citroen,C3,2009,хетчбэк,300 000,1.4,серый,передний,левый,бензин,не битый,1,5.0,73 л.с.,150 км,VF7FCKFV*9A****62,механика,https://www.avito.ru/moskva/avtomobili/citroen_c3_2009_1379321944
+14,Citroen,Berlingo,2008,минивэн,330 000,1.4,серебряный,передний,левый,бензин,не битый,1,5.0,75 л.с.,90465 км,VF7GJKFW*8N****41,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2008_1296307192
+15,Citroen,C-Crosser,2008,внедорожник,699 000,2.4,зелёный,полный,левый,бензин,не битый,2,5.0,170 л.с.,115000 км,VF7VVSFZ*8U****10,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c-crosser_2008_1699231777
+16,Citroen,Berlingo,2010,минивэн,270 000,1.6,белый,передний,левый,бензин,не битый,2,4.0,90 л.с.,400000 км,VF77JNFR*AJ****31,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2010_1232048471
+17,Citroen,Jumper,2013,фургон,620 000,2.2,белый,задний,левый,дизель,не битый,2,,131 л.с.,270000 км,X9H37211*D3****09,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2013_1447174349
+18,Citroen,C4,2012,хетчбэк,389 000,1.6,белый,передний,левый,бензин,не битый,1,4.0,120 л.с.,100700 км,Z8TNC5FS*BM****92,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2012_1550862972
+19,Citroen,C4,2018,седан,1 130 000,1.6,чёрный,передний,левый,бензин,,,,115 л.с.,,Z8TNDNFP*JM****69,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2018_1675913389
+20,Citroen,C4,2018,седан,1 107 000,1.6,коричневый,передний,левый,бензин,,,,150 л.с.,,Z8TND9HD*HM****21,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2018_1467745364
+21,Citroen,Berlingo,2011,фургон,350 000,1.6,чёрный,передний,левый,бензин,не битый,1,4.0,90 л.с.,191000 км,VF77JNFR*BJ****27,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2011_1621676529
+22,Citroen,C2,2006,хетчбэк,175 000,1.6,жёлтый,передний,левый,бензин,не битый,4+,3.0,120 л.с.,130000 км,VF7JMNFU*97****89,робот,https://www.avito.ru/moskva/avtomobili/citroen_c2_2006_1637654830
+23,Citroen,Grand C4 Picasso,2018,минивэн,2 064 000,1.6,серый,передний,левый,бензин,,,,150 л.с.,,VF73A5GX*HJ****08,автомат,https://www.avito.ru/moskva/avtomobili/citroen_grand_c4_picasso_2018_1364668639
+24,Citroen,Grand C4 Picasso,2018,минивэн,2 210 000,1.6,серебряный,передний,левый,бензин,,,,150 л.с.,,VF73A5GX*HJ****88,автомат,https://www.avito.ru/moskva/avtomobili/citroen_grand_c4_picasso_2018_1676177410
+25,Citroen,C4 Picasso,2017,минивэн,2 214 000,1.6,синий,передний,левый,дизель,,,,120 л.с.,,VF73D5GX*GJ****66,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2017_1663984331
+26,Citroen,DS5,2012,хетчбэк,840 000,1.6,чёрный,передний,левый,бензин,не битый,3,5.0,150 л.с.,94000 км,VF7KF5FE*CS****39,автомат,https://www.avito.ru/moskva/avtomobili/citroen_ds5_2012_1535646617
+27,Citroen,C4,2018,седан,1 124 000,1.6,синий,передний,левый,бензин,,,,115 л.с.,,Z8TND9HD*HM****25,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2018_1231155592
+28,Citroen,C4,2018,седан,1 124 000,1.6,синий,передний,левый,бензин,,,,115 л.с.,,Z8TND9HD*HM****50,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2018_1586145121
+29,Citroen,C4,2018,седан,1 130 000,1.6,коричневый,передний,левый,бензин,,,,115 л.с.,,Z8TNDNFP*JM****46,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2018_1437395432
+30,Citroen,C4,2018,седан,1 176 000,1.6,синий,передний,левый,бензин,,,,115 л.с.,,Z8TND5GX*HM****65,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2018_1277021461
+31,Citroen,C4,2018,седан,1 194 000,1.6,белый,передний,левый,бензин,,,,150 л.с.,,Z8TND5GX*HM****12,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2018_1481054466
+32,Citroen,C4,2018,седан,1 219 000,1.6,серый,передний,левый,бензин,,,,150 л.с.,,Z8TND5GX*JM****53,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2018_1557395368
+33,Citroen,C4,2013,седан,419 000,1.6,серый,передний,левый,бензин,не битый,1,,150 л.с.,202408 км,Z8TND5FE*DM****68,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2013_1589221838
+34,Citroen,C5,2008,седан,539 000,2.0,синий,передний,левый,дизель,не битый,2,4.0,136 л.с.,90600 км,VF7RDRHR*54****97,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2008_1533828158
+35,Citroen,Berlingo,2011,фургон,220 000,1.4,белый,передний,левый,бензин,не битый,2,3.0,75 л.с.,175000 км,VF7GCKFW*BX****23,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2011_1635780540
+36,Citroen,Jumper,2014,фургон,750 000,2.2,белый,передний,левый,дизель,не битый,1,,131 л.с.,167000 км,X9H37211*D6****97,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2014_1167881562
+37,Citroen,Grand C4 Picasso,2015,минивэн,1 369 000,1.6,серебряный,передний,левый,дизель,не битый,1,,120 л.с.,60200 км,VF73ABHZ*FJ****60,автомат,https://www.avito.ru/moskva/avtomobili/citroen_grand_c4_picasso_2015_1459710223
+38,Citroen,C4,2006,хетчбэк,199 999,1.6,зелёный,передний,левый,бензин,не битый,4+,5.0,109 л.с.,333333 км,VF7LCNFU*74****76,механика,https://www.avito.ru/moskva/avtomobili/citroen_c4_2006_1441789470
+39,Citroen,Jumper,2012,фургон,590 000,2.2,белый,передний,левый,дизель,не битый,1,2.0,131 л.с.,252000 км,X9H37211*CC****21,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2012_1527891333
+40,Citroen,Berlingo,2018,минивэн,1 385 000,1.6,синий,передний,левый,бензин,,,,120 л.с.,,VF77J5FS*JJ****06,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2018_1305235923
+41,Citroen,C4,2012,хетчбэк,350 000,1.6,белый,передний,левый,бензин,не битый,1,,120 л.с.,155000 км,Z8TNC5FS*BM****33,механика,https://www.avito.ru/moskva/avtomobili/citroen_c4_2012_1519952695
+42,Citroen,C4 Aircross,2014,внедорожник,950 000,2.0,коричневый,полный,левый,бензин,не битый,1,5.0,150 л.с.,94000 км,VF7BUAFZ*EZ****00,вариатор,https://www.avito.ru/moskva/avtomobili/citroen_c4_aircross_2014_1685208617
+43,Citroen,Berlingo,2016,фургон,800 000,1.6,белый,передний,левый,бензин,не битый,1,3.0,109 л.с.,35000 км,VF77KNFU*GJ****88,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2016_1579876758
+44,Citroen,C5,2006,хетчбэк,225 000,1.8,золотой,передний,левый,бензин,не битый,3,5.0,125 л.с.,200000 км,VF7RC6FY*76****73,механика,https://www.avito.ru/moskva/avtomobili/citroen_c5_2006_1626837727
+45,Citroen,C3,2010,хетчбэк,340 000,1.6,серый,передний,левый,бензин,не битый,2,5.0,120 л.с.,149000 км,VF7SC5FS*AA****21,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c3_2010_1164999235
+46,Citroen,C4,2013,седан,480 000,1.6,белый,передний,левый,бензин,не битый,2,5.0,120 л.с.,117000 км,Z8TND5FS*DM****29,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2013_1116378725
+47,Citroen,C3 Picasso,2014,минивэн,700 000,1.6,чёрный,передний,левый,бензин,не битый,1,5.0,115 л.с.,110000 км,VF7SH5FJ*ET****46,робот,https://www.avito.ru/moskva/avtomobili/citroen_c3_picasso_2014_1010316314
+48,Citroen,C3 Picasso,2014,минивэн,620 000,1.6,красный,передний,левый,бензин,не битый,1,,115 л.с.,45000 км,VF7SH5FJ*ET****53,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c3_picasso_2014_1146510925
+49,Citroen,C4,2011,хетчбэк,355 000,1.6,красный,передний,левый,бензин,не битый,2,,120 л.с.,58000 км,Z8TLC5FW*AM****44,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2011_1722008143
+50,Citroen,Berlingo,2008,пикап,150 000,1.4,синий,задний,левый,бензин,не битый,3,3.0,75 л.с.,180000 км,VF7GCKFW*94****47,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2008_1584680315
+51,Citroen,C4,2010,хетчбэк,299 000,1.6,серебряный,передний,левый,бензин,не битый,2,5.0,120 л.с.,72044 км,VF7LC5FW*AY****83,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2010_1007827395
+52,Citroen,Xsara Picasso,2005,минивэн,240 000,2.0,белый,передний,левый,бензин,не битый,2,5.0,136 л.с.,157000 км,VF7CHRFN*39****50,автомат,https://www.avito.ru/moskva/avtomobili/citroen_xsara_picasso_2005_1269047301
+53,Citroen,C4,2006,хетчбэк,249 000,1.6,красный,передний,левый,бензин,не битый,3,3.0,121 л.с.,185000 км,VF7LANFU*74****60,механика,https://www.avito.ru/moskva/avtomobili/citroen_c4_2006_1522490823
+54,Citroen,C-Crosser,2010,внедорожник,660 000,2.4,чёрный,полный,левый,бензин,не битый,2,5.0,170 л.с.,95540 км,Z8TVUSFZ*AM****29,вариатор,https://www.avito.ru/moskva/avtomobili/citroen_c-crosser_2010_1608856366
+55,Citroen,Grand C4 Picasso,2015,минивэн,1 349 000,1.6,белый,передний,левый,дизель,не битый,1,5.0,116 л.с.,54500 км,VF73E9HC*EJ****53,робот,https://www.avito.ru/moskva/avtomobili/citroen_grand_c4_picasso_2015_1423480479
+56,Citroen,C4,2011,хетчбэк,350 000,1.6,синий,передний,левый,бензин,не битый,2,5.0,120 л.с.,88774 км,Z8TNC5FS*BM****31,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2011_1724472292
+57,Citroen,C4 Picasso,2007,минивэн,370 000,2.0,синий,передний,левый,бензин,не битый,4+,5.0,140 л.с.,160800 км,VF7UARFJ*45****95,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2007_1319783141
+58,Citroen,C4,2007,хетчбэк,220 000,1.6,чёрный,передний,левый,бензин,не битый,4+,3.0,109 л.с.,135000 км,VF7LANFU*74****98,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2007_1421620207
+59,Citroen,C4,2005,хетчбэк,300 000,2.0,красный,передний,левый,бензин,не битый,3,3.0,200 л.с.,122000 км,VF7LARFK*74****27,механика,https://www.avito.ru/moskva/avtomobili/citroen_c4_2005_1390793293
+60,Citroen,Berlingo,2003,фургон,145 000,1.6,белый,передний,левый,дизель,не битый,3,,69 л.с.,200000 км,VF7GCWJY*94****47,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2003_1325381785
+61,Citroen,C4,2010,хетчбэк,175 000,1.6,чёрный,передний,левый,бензин,не битый,3,5.0,120 л.с.,197600 км,VF7LA5FW*AY****81,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2010_1056440090
+62,Citroen,C5,2006,хетчбэк,350 000,3.0,фиолетовый,передний,левый,бензин,не битый,4+,4.0,206 л.с.,229125 км,VF7RCXFU*76****87,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2006_1483748209
+63,Citroen,C4 Picasso,2010,минивэн,460 000,1.6,красный,передний,левый,бензин,не битый,3,5.0,156 л.с.,69000 км,VF7UD5FV*AJ****41,робот,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2010_1520527067
+64,Citroen,C4,2012,хетчбэк,435 000,1.6,коричневый,передний,левый,бензин,не битый,1,5.0,110 л.с.,60000 км,Z8TNCNFU*CM****90,механика,https://www.avito.ru/moskva/avtomobili/citroen_c4_2012_1317252396
+65,Citroen,DS4,2012,хетчбэк,590 000,1.6,белый,передний,левый,бензин,не битый,2,5.0,150 л.с.,120000 км,VF7NX5FE*CY****49,автомат,https://www.avito.ru/moskva/avtomobili/citroen_ds4_2012_1350375263
+66,Citroen,C3,2002,хетчбэк,145 000,1.1,красный,передний,левый,бензин,не битый,3,4.0,60 л.с.,198134 км,VF7FCHFX*26****58,механика,https://www.avito.ru/moskva/avtomobili/citroen_c3_2002_1415228609
+67,Citroen,C4,2009,хетчбэк,249 000,1.6,чёрный,передний,левый,бензин,не битый,3,5.0,125 л.с.,171000 км,VF7LC5FW*9Y****53,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2009_1393282715
+68,Citroen,Berlingo,2010,пикап,200 000,1.4,белый,передний,левый,бензин,не битый,2,4.0,75 л.с.,138000 км,VF7GCKFW*AX****94,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2010_1181680820
+69,Citroen,C4,2006,хетчбэк,175 000,1.6,красный,передний,левый,бензин,не битый,4+,5.0,109 л.с.,171000 км,VF7LCNFU*74****75,механика,https://www.avito.ru/moskva/avtomobili/citroen_c4_2006_1709432548
+70,Citroen,Grand C4 Picasso,2015,минивэн,1 199 000,1.6,серый,передний,левый,дизель,не битый,1,5.0,116 л.с.,56300 км,VF73E9HC*EJ****53,робот,https://www.avito.ru/moskva/avtomobili/citroen_grand_c4_picasso_2015_1679830820
+71,Citroen,C3,2010,хетчбэк,380 000,1.6,белый,передний,левый,бензин,не битый,2,5.0,120 л.с.,122000 км,VF7SC5FS*AW****98,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c3_2010_1550067266
+72,Citroen,Xsara Picasso,2007,минивэн,269 000,1.6,пурпурный,передний,левый,бензин,не битый,3,,110 л.с.,158000 км,VF7CHNFU*25****53,механика,https://www.avito.ru/moskva/avtomobili/citroen_xsara_picasso_2007_1691151480
+73,Citroen,C4,2007,хетчбэк,230 000,1.6,синий,передний,левый,бензин,не битый,3,5.0,109 л.с.,109000 км,VF7LCNFU*74****72,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2007_1154676120
+74,Citroen,Berlingo,2013,универсал,500 000,1.6,синий,передний,левый,бензин,не битый,1,5.0,120 л.с.,110000 км,VF77J5FS*DJ****39,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2013_1345160613
+75,Citroen,C4,2007,хетчбэк,215 000,1.6,чёрный,передний,левый,бензин,не битый,3,4.0,109 л.с.,200000 км,VF7LCNFU*74****16,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2007_1361576042
+76,Citroen,C4 Picasso,2014,минивэн,985 000,1.6,красный,передний,левый,дизель,не битый,2,,115 л.с.,138000 км,VF73A9HC*EJ****40,робот,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2014_1334528304
+77,Citroen,C4,2014,седан,630 000,1.6,белый,передний,левый,бензин,не битый,1,,150 л.с.,52000 км,Z8TND5FE*EM****54,робот,https://www.avito.ru/moskva/avtomobili/citroen_c4_2014_1230642838
+78,Citroen,Berlingo,2004,универсал,135 000,1.4,серебряный,передний,левый,бензин,не битый,2,5.0,109 л.с.,144000 км,VF7GJKFW*93****65,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2004_1191626638
+79,Citroen,C4,2013,седан,675 000,1.6,коричневый,передний,левый,бензин,не битый,2,4.0,150 л.с.,89000 км,Z8TND5FE*DM****06,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2013_1111872690
+80,Citroen,C3,2006,хетчбэк,250 000,1.6,красный,передний,левый,бензин,не битый,4+,5.0,108 л.с.,74000 км,VF7FCNFU*28****63,робот,https://www.avito.ru/moskva/avtomobili/citroen_c3_2006_967494447
+81,Citroen,C4,2008,хетчбэк,299 000,1.6,синий,передний,левый,бензин,не битый,2,3.0,109 л.с.,135000 км,VF7LANFU*74****23,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2008_1258961159
+82,Citroen,Berlingo,2011,фургон,275 000,1.6,белый,передний,левый,бензин,не битый,3,4.0,109 л.с.,168000 км,VF7GANFU*BX****66,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2011_1035035748
+83,Citroen,Berlingo,2005,фургон,167 000,1.9,белый,передний,левый,дизель,не битый,4+,4.0,69 л.с.,200000 км,VF7GCWJY*94****93,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2005_1617943064
+84,Citroen,C5,2005,хетчбэк,230 000,2.0,жёлтый,передний,левый,бензин,не битый,3,5.0,140 л.с.,307000 км,VF7RCRFJ*76****73,механика,https://www.avito.ru/moskva/avtomobili/citroen_c5_2005_1348749360
+85,Citroen,C-Elysee,2014,седан,450 000,1.6,белый,передний,левый,бензин,не битый,1,4.0,116 л.с.,82736 км,VF7DDNFP*EJ****76,механика,https://www.avito.ru/moskva/avtomobili/citroen_c-elysee_2014_1594813435
+86,Citroen,C-Elysee,2014,седан,250 000,1.2,жёлтый,передний,левый,бензин,не битый,2,4.0,72 л.с.,280000 км,VF7DDHMY*EJ****12,механика,https://www.avito.ru/moskva/avtomobili/citroen_c-elysee_2014_1669133924
+87,Citroen,Xsara,2004,хетчбэк,190 000,1.6,синий,передний,левый,бензин,не битый,2,5.0,109 л.с.,200000 км,VF7N1NFU*73****93,механика,https://www.avito.ru/moskva/avtomobili/citroen_xsara_2004_782715918
+88,Citroen,Berlingo,2006,фургон,125 000,1.4,белый,передний,левый,бензин,не битый,3,5.0,75 л.с.,303000 км,VF7GCKFW*94****46,механика,https://www.avito.ru/moskva_zelenograd/avtomobili/citroen_berlingo_2006_1272927931
+89,Citroen,Jumper,2013,фургон,775 000,2.2,белый,передний,левый,дизель,не битый,1,5.0,130 л.с.,157000 км,VF7YAZMF*12****64,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2013_1509060894
+90,Citroen,C3,2018,внедорожник,1 150 000,1.2,серебряный,передний,левый,бензин,,,,110 л.с.,,VF72RHNV*J4****89,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c3_2018_1193876879
+91,Citroen,C-Elysee,2013,седан,400 000,1.6,белый,передний,левый,бензин,не битый,2,5.0,115 л.с.,121000 км,VF7DDNFP*DJ****70,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c-elysee_2013_1560727427
+92,Citroen,C5,2006,седан,239 000,3.0,бежевый,передний,левый,бензин,не битый,2,,206 л.с.,270000 км,VF7RCXFU*76****76,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2006_1427334400
+93,Citroen,Berlingo,2011,минивэн,455 000,1.6,серый,передний,левый,бензин,не битый,2,5.0,120 л.с.,104000 км,VF77J5FS*BJ****42,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2011_1385624682
+94,Citroen,C4 Picasso,2011,минивэн,455 000,1.6,чёрный,передний,левый,бензин,не битый,3,5.0,150 л.с.,90000 км,VF7UD5FN*BJ****63,робот,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2011_1201307710
+95,Citroen,Jumper,2013,микроавтобус,430 000,2.2,белый,передний,левый,дизель,не битый,1,5.0,131 л.с.,299999 км,Z8PL4H2M*DC****85,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2013_1045972023
+96,Citroen,C3,2004,хетчбэк,188 900,1.6,чёрный,передний,левый,бензин,не битый,3,5.0,109 л.с.,145000 км,VF7FCNFU*27****76,механика,https://www.avito.ru/moskva/avtomobili/citroen_c3_2004_779847453
+97,Citroen,C3 Picasso,2012,минивэн,369 000,1.6,белый,передний,левый,бензин,не битый,2,4.0,120 л.с.,129000 км,VF7SH5FJ*CT****23,робот,https://www.avito.ru/moskva/avtomobili/citroen_c3_picasso_2012_1311108931
+98,Citroen,C4 Picasso,2008,универсал,390 000,1.6,синий,передний,левый,дизель,не битый,3,5.0,110 л.с.,230000 км,VF7UA9HZ*45****68,робот,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2008_1285827835
+99,Citroen,C4,2005,хетчбэк,195 000,1.6,голубой,передний,левый,бензин,не битый,1,4.0,109 л.с.,210000 км,VF7LCNFU*74****44,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2005_1367189618
+100,Citroen,C4,2006,хетчбэк,250 000,1.6,чёрный,передний,левый,бензин,не битый,2,4.0,109 л.с.,175000 км,VF7LCNFU*74****19,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2006_1271730799
+101,Citroen,Berlingo,2003,фургон,110 000,1.9,белый,передний,левый,дизель,не битый,3,4.0,71 л.с.,376000 км,VF7GCWJY*94****99,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2003_951052971
+102,Citroen,Berlingo,2007,минивэн,269 000,1.6,голубой,передний,левый,бензин,не битый,2,5.0,109 л.с.,207500 км,VF7GJNFU*93****87,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2007_1610919937
+103,Citroen,C5,2003,седан,55 000,2.0,серебряный,передний,левый,бензин, битый,3,5.0,136 л.с.,89001 км,VF7DCRFN*76****27,механика,https://www.avito.ru/moskva/avtomobili/citroen_c5_2003_1673403308
+104,Citroen,Berlingo,2005,минивэн,255 000,1.4,красный,передний,левый,бензин,не битый,1,5.0,75 л.с.,155733 км,VF7GJKFW*93****70,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2005_1624343188
+105,Citroen,C-Elysee,2014,седан,460 000,1.6,белый,передний,левый,бензин,не битый,1,4.0,116 л.с.,30000 км,VF7DDNFP*EJ****71,механика,https://www.avito.ru/moskva/avtomobili/citroen_c-elysee_2014_1577232743
+106,Citroen,Grand C4 Picasso,2012,минивэн,510 000,1.6,фиолетовый,передний,левый,бензин,не битый,2,5.0,120 л.с.,160000 км,VF7UA5FS*CJ****67,механика,https://www.avito.ru/moskva/avtomobili/citroen_grand_c4_picasso_2012_1463502699
+107,Citroen,C4,2016,седан,650 000,1.6,серый,передний,левый,бензин,не битый,1,5.0,116 л.с.,69000 км,Z8TNDNFP*GM****60,механика,https://www.avito.ru/moskva/avtomobili/citroen_c4_2016_1234750708
+108,Citroen,C-Crosser,2012,внедорожник,700 000,2.4,коричневый,полный,левый,бензин,не битый,1,5.0,170 л.с.,72000 км,Z8TVUSFZ*CM****50,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c-crosser_2012_1331726139
+109,Citroen,Jumper,2013,фургон,1 360 000,2.5,белый,передний,левый,дизель,не битый,2,,131 л.с.,85000 км,X9H33211*D6****03,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2013_1548666671
+110,Citroen,C2,2008,хетчбэк,15 000,1.6,жёлтый,передний,левый,бензин, битый,1,3.0,122 л.с.,145000 км,VF7JMNFS*97****24,механика,https://www.avito.ru/moskva/avtomobili/citroen_c2_2008_1716860297
+111,Citroen,C4 Aircross,2013,внедорожник,740 000,2.0,коричневый,передний,левый,бензин,не битый,2,,150 л.с.,86725 км,VF7BUAFZ*DZ****19,вариатор,https://www.avito.ru/moskva/avtomobili/citroen_c4_aircross_2013_1383168952
+112,Citroen,C5,2010,седан,420 000,1.6,красный,передний,левый,бензин,не битый,2,4.0,150 л.с.,191800 км,VF7RD5FN*AL****74,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2010_1348262117
+113,Citroen,Jumper,2018,фургон,1 592 900,2.2,синий,передний,левый,дизель,,,,130 л.с.,,VF7YATMF*12****42,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2018_1409733267
+114,Citroen,C3 Picasso,2009,универсал,365 000,1.6,голубой,передний,левый,бензин,не битый,1,4.0,115 л.с.,87029 км,VF7SH5FP*9T****74,механика,https://www.avito.ru/moskva/avtomobili/citroen_c3_picasso_2009_1567310711
+115,Citroen,C3 Picasso,2012,минивэн,410 000,1.6,серебряный,передний,левый,бензин,не битый,1,,114 л.с.,147781 км,VF7SH5FJ*CT****82,робот,https://www.avito.ru/moskva/avtomobili/citroen_c3_picasso_2012_957842305
+116,Citroen,C-Elysee,2013,седан,350 000,1.6,чёрный,передний,левый,бензин,не битый,1,4.0,116 л.с.,154000 км,VF7DDNFP*DJ****43,механика,https://www.avito.ru/moskva/avtomobili/citroen_c-elysee_2013_1230195257
+117,Citroen,Jumpy,2015,фургон,820 000,1.6,белый,передний,левый,дизель,не битый,1,4.0,90 л.с.,122000 км,VF7XS9HH*FZ****35,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumpy_2015_1412533804
+118,Citroen,C-Elysee,2013,седан,397 000,1.6,синий,передний,левый,бензин,не битый,1,4.0,115 л.с.,114700 км,VF7DDNFP*DJ****03,механика,https://www.avito.ru/moskva/avtomobili/citroen_c-elysee_2013_1353634998
+119,Citroen,Jumper,2018,фургон,1 712 900,2.2,белый,передний,левый,дизель,,,,130 л.с.,,VF7YATMF*12****38,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2018_1600951906
+120,Citroen,C4,2011,хетчбэк,470 000,1.6,красный,передний,левый,бензин,не битый,2,,120 л.с.,82119 км,Z8TNC5FS*BM****93,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2011_1276312739
+121,Citroen,Jumper,2010,микроавтобус,450 000,2.3,белый,передний,левый,дизель, битый,2,3.0,101 л.с.,274300 км,VF7YAAMF*11****68,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2010_1722096163
+122,Citroen,C4,2011,хетчбэк,430 000,1.6,серый,передний,левый,бензин,не битый,4+,5.0,120 л.с.,127000 км,Z8TNC5FS*BM****93,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2011_1629062864
+123,Citroen,Jumper,2018,фургон,1 762 900,2.2,белый,передний,левый,дизель,,,,130 л.с.,,VF7YATMF*12****39,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2018_1397696324
+124,Citroen,DS5,2014,хетчбэк,1 250 000,1.6,белый,передний,левый,бензин,не битый,1,5.0,150 л.с.,69000 км,VF7KF5FE*DS****96,автомат,https://www.avito.ru/moskva/avtomobili/citroen_ds5_2014_1629776458
+125,Citroen,C-Crosser,2011,внедорожник,654 671,2.0,серый,полный,левый,бензин,не битый,3,5.0,147 л.с.,168231 км,Z8TVUAFZ*CM****34,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c-crosser_2011_1569344071
+126,Citroen,C3,2005,хетчбэк,120 000,1.4,красный,передний,левый,бензин,не битый,3,5.0,73 л.с.,237000 км,VF7FCKFV*27****01,механика,https://www.avito.ru/moskva/avtomobili/citroen_c3_2005_954231000
+127,Citroen,C5,2012,универсал,840 000,2.0,чёрный,передний,левый,дизель,не битый,3,5.0,136 л.с.,163000 км,VF7RWRHD*CL****24,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2012_1724476360
+128,Citroen,Berlingo,2010,минивэн,250 000,1.4,синий,передний,левый,бензин,не битый,1,4.0,75 л.с.,143251 км,VF7GJKFW*AX****83,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2010_1274723684
+129,Citroen,C4,2012,хетчбэк,495 000,1.6,серый,передний,левый,бензин,не битый,1,,120 л.с.,105178 км,Z8TNC5FS*CM****05,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2012_1056225174
+130,Citroen,Berlingo,2011,фургон,270 000,1.6,белый,передний,левый,дизель,не битый,4+,5.0,90 л.с.,130000 км,VF7GA9HX*BX****10,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2011_1519918842
+131,Citroen,C5,2001,хетчбэк,200 000,2.2,зелёный,передний,левый,дизель,не битый,3,5.0,133 л.с.,300000 км,VF7DC4HX*76****71,механика,https://www.avito.ru/moskva/avtomobili/citroen_c5_2001_1066388201
+132,Citroen,DS4,2012,хетчбэк,670 000,1.6,белый,передний,левый,бензин,не битый,2,5.0,150 л.с.,93500 км,VF7NX5FE*CY****04,автомат,https://www.avito.ru/moskva/avtomobili/citroen_ds4_2012_1028727547
+133,Citroen,C-Elysee,2013,седан,410 000,1.6,голубой,передний,левый,бензин,не битый,1,5.0,116 л.с.,46830 км,VF7DDNFP*DJ****53,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c-elysee_2013_1481123291
+134,Citroen,C3 Picasso,2012,минивэн,445 000,1.6,серебряный,передний,левый,бензин,не битый,2,5.0,115 л.с.,84115 км,VF7SH5FJ*CT****80,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c3_picasso_2012_1465748941
+135,Citroen,Jumper,2013,микроавтобус,500 000,2.2,белый,передний,левый,дизель,не битый,1,5.0,131 л.с.,250000 км,Z8PL4H2M*DC****86,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2013_1536024637
+136,Citroen,Berlingo,2008,фургон,160 000,1.4,белый,передний,левый,бензин,не битый,4+,5.0,75 л.с.,226000 км,VF7GCKFW*8N****22,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2008_1541350872
+137,Citroen,Jumper,2012,фургон,580 500,2.2,белый,передний,левый,дизель,не битый,1,,120 л.с.,68700 км,VF7YABMF*12****68,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2012_1091639497
+138,Citroen,Berlingo,2012,универсал,390 000,1.6,белый,передний,левый,бензин,не битый,1,,90 л.с.,102700 км,VF77JNFR*CJ****14,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2012_1507395257
+139,Citroen,Jumper,2001,фургон,250 000,2.8,белый,передний,левый,дизель,не битый,3,,130 л.с.,709000 км,VF7233JL*16****02,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2001_1112641877
+140,Citroen,Jumper,2012,микроавтобус,460 000,2.2,белый,передний,левый,дизель,не битый,2,,131 л.с.,215000 км,XUS2227W*C0****04,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2012_1571911305
+141,Citroen,Xsara Picasso,2004,минивэн,269 000,1.6,серебряный,передний,левый,бензин,не битый,2,,110 л.с.,115070 км,VF7CHNFV*39****77,механика,https://www.avito.ru/moskva/avtomobili/citroen_xsara_picasso_2004_1480400560
+142,Citroen,C4,2016,седан,250 000,1.6,серый,передний,левый,бензин, битый,3,4.0,120 л.с.,48000 км,Z8TND5FS*GM****13,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2016_1242126158
+143,Citroen,Jumper,2013,микроавтобус,700 000,2.2,белый,передний,левый,дизель,не битый,2,,130 л.с.,230000 км,XUS2227W*D0****78,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2013_1303517734
+144,Citroen,C5,2012,седан,635 000,1.6,серый,передний,левый,бензин,не битый,2,4.0,150 л.с.,102000 км,VF7RD5FE*CL****83,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2012_1272548218
+145,Citroen,C5,2011,седан,528 000,1.6,белый,передний,левый,бензин,не битый,2,,150 л.с.,135000 км,VF7RD5FE*BL****21,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2011_1277751611
+146,Citroen,C6,2006,седан,499 995,2.9,чёрный,передний,левый,бензин,не битый,4+,,211 л.с.,147000 км,VF7TDXFV*78****64,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c6_2006_305637026
+147,Citroen,C4,2014,седан,499 000,1.6,коричневый,передний,левый,бензин,не битый,3,5.0,150 л.с.,69000 км,Z8TND5FE*EM****92,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2014_1405403833
+148,Citroen,Xsara Picasso,2002,минивэн,189 000,1.8,серебряный,передний,левый,бензин,не битый,3,5.0,116 л.с.,170000 км,VF7CH6FZ*39****33,механика,https://www.avito.ru/moskva/avtomobili/citroen_xsara_picasso_2002_1514326796
+149,Citroen,C4,2018,седан,1 058 000,1.6,серый,передний,левый,бензин,,,,115 л.с.,,Z8TNDNFP*JM****01,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2018_1351627370
+150,Citroen,Xsara Picasso,2002,минивэн,189 000,1.8,серебряный,передний,левый,бензин,не битый,3,5.0,116 л.с.,170000 км,VF7CH6FZ*39****33,механика,https://www.avito.ru/moskva/avtomobili/citroen_xsara_picasso_2002_1514326796
+151,Citroen,C4,2018,седан,1 058 000,1.6,серый,передний,левый,бензин,,,,115 л.с.,,Z8TNDNFP*JM****01,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2018_1351627370
+152,Citroen,Grand C4 Picasso,2014,минивэн,960 000,1.6,белый,передний,левый,бензин,не битый,2,5.0,150 л.с.,49000 км,VF73A5GX*EJ****91,автомат,https://www.avito.ru/moskva/avtomobili/citroen_grand_c4_picasso_2014_1632245872
+153,Citroen,Berlingo,2017,фургон,1 032 000,1.6,белый,передний,левый,дизель,,,,90 л.с.,,VF77R9HE*HJ****96,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2017_1103242325
+154,Citroen,C4,2005,купе,230 000,1.6,красный,передний,левый,бензин,не битый,3,3.0,109 л.с.,187000 км,VF7LANFU*74****60,механика,https://www.avito.ru/moskva/avtomobili/citroen_c4_2005_1475096592
+155,Citroen,Berlingo,2017,фургон,1 050 000,1.6,белый,передний,левый,дизель,,,,90 л.с.,,VF77L9HE*HJ****63,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2017_1178678945
+156,Citroen,C4,2016,седан,780 000,1.6,чёрный,передний,левый,бензин,не битый,2,5.0,116 л.с.,20000 км,Z8TNDNFP*GM****04,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2016_1247356453
+157,Citroen,C3,2018,внедорожник,1 392 000,1.2,оранжевый,передний,левый,бензин,,,,110 л.с.,,VF72RHNV*J4****60,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c3_2018_1226395482
+158,Citroen,Jumpy,2018,фургон,1 239 900,1.6,белый,передний,левый,дизель,,,,90 л.с.,,Z8TVB9HF*JM****97,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumpy_2018_1551921735
+159,Citroen,Berlingo,2018,минивэн,1 396 000,1.6,белый,передний,левый,бензин,,,,120 л.с.,,VF77J5FS*JJ****62,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2018_1335885501
+160,Citroen,C5,2010,седан,360 000,1.6,синий,передний,левый,бензин,не битый,2,4.0,150 л.с.,130000 км,VF7RD5FN*AL****87,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2010_1692265392
+161,Citroen,Jumpy,2018,фургон,1 529 900,2.0,белый,передний,левый,дизель,,,,150 л.с.,,Z8TVFAHX*JM****83,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumpy_2018_1679975812
+162,Citroen,Jumpy,2018,фургон,1 529 000,2.0,белый,передний,левый,дизель,,,,150 л.с.,,Z8TVFAHX*JM****77,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumpy_2018_1475557735
+163,Citroen,Jumper,2007,микроавтобус,470 000,2.0,белый,передний,левый,дизель,не битый,2,4.0,101 л.с.,253000 км,VF7YBAMF*11****90,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2007_1033667417
+164,Citroen,Jumpy,2018,фургон,1 399 900,1.6,белый,передний,левый,дизель,,,,90 л.с.,,Z8TVB9HF*JM****68,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumpy_2018_1193701508
+165,Citroen,Jumpy,2018,фургон,1 469 900,2.0,белый,передний,левый,дизель,,,,150 л.с.,,Z8TVFAHX*JM****95,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumpy_2018_955012923
+166,Citroen,C4,2005,купе,210 000,1.6,серый,передний,левый,бензин,не битый,4+,3.0,109 л.с.,270000 км,VF7LANFU*74****12,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2005_1510264984
+167,Citroen,C5,2013,седан,515 000,1.6,чёрный,передний,левый,бензин,не битый,2,5.0,150 л.с.,137000 км,VF7RD5FE*DL****92,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2013_1307852763
+168,Citroen,C5,2011,седан,420 000,1.6,чёрный,передний,левый,бензин,не битый,3,4.0,120 л.с.,160000 км,VF7RD5FS*AL****16,робот,https://www.avito.ru/moskva/avtomobili/citroen_c5_2011_1233437397
+169,Citroen,C4 Picasso,2012,минивэн,25 000,1.6,голубой,передний,левый,бензин, битый,1,5.0,150 л.с.,1000 км,VF7UA5FN*CJ****30,робот,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2012_1506677784
+170,Citroen,Berlingo,2005,минивэн,155 000,1.4,красный,передний,левый,бензин,не битый,4+,5.0,75 л.с.,212000 км,VF7GJKFW*93****73,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2005_1024800622
+171,Citroen,C4,2010,хетчбэк,300 000,1.6,синий,передний,левый,бензин,не битый,4+,5.0,120 л.с.,105000 км,VF7LC5FW*AY****50,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2010_1048330216
+172,Citroen,C4,2008,хетчбэк,285 000,1.6,синий,передний,левый,бензин,не битый,3,3.0,120 л.с.,80000 км,VF7LA5FW*74****60,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2008_926713372
+173,Citroen,C3 Picasso,2011,минивэн,380 000,1.4,белый,передний,левый,бензин,не битый,1,5.0,95 л.с.,87859 км,VF7SH8FP*BT****17,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c3_picasso_2011_1672307835
+174,Citroen,C4,2008,купе,250 000,1.6,синий,передний,левый,бензин,не битый,4+,3.0,120 л.с.,119020 км,VF7LA5FW*74****84,механика,https://www.avito.ru/moskva_zelenograd/avtomobili/citroen_c4_2008_986751304
+175,Citroen,Berlingo,2008,фургон,250 000,1.4,красный,передний,левый,бензин,не битый,2,3.0,75 л.с.,200000 км,VF7GCKFW*8N****42,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2008_1275666868
+176,Citroen,C-Crosser,2012,внедорожник,750 000,2.0,чёрный,полный,левый,бензин,не битый,2,,147 л.с.,102864 км,Z8TVUAFZ*CM****35,вариатор,https://www.avito.ru/moskva/avtomobili/citroen_c-crosser_2012_1537240925
+177,Citroen,C4 Picasso,2010,минивэн,410 000,1.6,коричневый,передний,левый,бензин,не битый,2,5.0,150 л.с.,170000 км,VF7UA5FV*AJ****45,робот,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2010_1114288956
+178,Citroen,Berlingo,2012,фургон,210 000,1.4,белый,передний,левый,бензин,не битый,3,5.0,75 л.с.,188736 км,VF7GCKFW*CX****57,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2012_1194911059
+179,Citroen,C4,2012,хетчбэк,449 000,1.6,коричневый,передний,левый,бензин,не битый,1,5.0,120 л.с.,100000 км,VF7NC5FS*CY****28,автомат,https://www.avito.ru/moskva_zelenograd/avtomobili/citroen_c4_2012_1595433947
+180,Citroen,C4 Picasso,2012,хетчбэк,495 000,1.6,коричневый,передний,левый,бензин,не битый,2,,150 л.с.,108013 км,VF7UD5FN*CJ****38,робот,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2012_1683735609
+181,Citroen,C4 Picasso,2012,минивэн,549 000,1.6,голубой,передний,левый,бензин,не битый,2,,150 л.с.,87876 км,VF7UD5FN*CJ****13,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2012_984807819
+182,Citroen,C4,2011,хетчбэк,470 000,1.6,белый,передний,левый,бензин,не битый,4+,5.0,120 л.с.,86000 км,Z8TNC5FS*BM****27,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2011_926261920
+183,Citroen,C4 Picasso,2007,минивэн,385 000,2.0,синий,передний,левый,бензин,не битый,4+,5.0,140 л.с.,125902 км,VF7UDRFJ*45****03,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2007_1659511632
+184,Citroen,C4,2008,хетчбэк,200 000,1.6,красный,передний,левый,бензин,не битый,4+,3.0,109 л.с.,185000 км,VF7LANFU*74****32,механика,https://www.avito.ru/moskva/avtomobili/citroen_c4_2008_1443368359
+185,Citroen,C4 Picasso,2010,минивэн,350 000,1.6,золотой,передний,левый,бензин,не битый,2,5.0,156 л.с.,80000 км,VF7UD5FV*AJ****12,робот,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2010_958957221
+186,Citroen,C4 Picasso,2010,минивэн,327 000,1.6,фиолетовый,передний,левый,бензин,не битый,1,5.0,156 л.с.,138122 км,VF7UD5FV*AJ****54,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2010_1712623533
+187,Citroen,C4,2011,хетчбэк,350 000,1.6,красный,передний,левый,бензин,не битый,3,,120 л.с.,137800 км,Z8TNC5FS*BM****95,механика,https://www.avito.ru/moskva/avtomobili/citroen_c4_2011_1492467727
+188,Citroen,Berlingo,2010,минивэн,345 000,1.4,красный,передний,левый,бензин,не битый,1,,75 л.с.,125800 км,VF7GJKFW*AX****84,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2010_1242804580
+189,Citroen,C4,2012,хетчбэк,439 000,1.6,белый,передний,левый,бензин,не битый,1,4.0,120 л.с.,90000 км,Z8TNC5FS*CM****20,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2012_1541923632
+190,Citroen,Jumper,2012,фургон,100 000,2.2,белый,передний,левый,дизель, битый,1,5.0,120 л.с.,70000 км,VF7YDBMF*12****65,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2012_1291115526
+191,Citroen,C5,2012,седан,360 000,1.6,белый,передний,левый,бензин,не битый,3,5.0,150 л.с.,140000 км,VF7RD5FE*CL****98,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2012_1643112129
+192,Citroen,Jumper,2009,микроавтобус,620 000,2.2,белый,передний,левый,дизель,не битый,1,4.0,100 л.с.,150000 км,VF7YCAMF*11****33,механика,https://www.avito.ru/moskva_zelenograd/avtomobili/citroen_jumper_2009_1593014878
+193,Citroen,C4 Picasso,2011,минивэн,600 000,1.6,чёрный,передний,левый,бензин,не битый,3,5.0,150 л.с.,68200 км,VF7UD5FN*BJ****36,робот,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2011_1606591772
+194,Citroen,C5,2010,седан,403 000,1.6,синий,передний,левый,бензин,не битый,3,4.0,150 л.с.,116000 км,VF7RD5FN*AL****95,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2010_1211280229
+195,Citroen,C3 Aircross,2018,внедорожник,1 452 000,1.2,белый,передний,левый,бензин,,,4.0,110 л.с.,,VF72RHNV*S4****25,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c3_aircross_2018_1172143658
+196,Citroen,Berlingo,2012,минивэн,430 000,1.6,белый,передний,левый,бензин,не битый,3,5.0,120 л.с.,130000 км,VF77J5FS*CJ****37,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2012_1342953816
+197,Citroen,C4,2013,седан,110 000,1.6,синий,передний,левый,бензин, битый,1,,120 л.с.,42000 км,Z8TND5FS*DM****41,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2013_1038187399
+198,Citroen,C4,2011,хетчбэк,399 000,1.6,серый,передний,левый,бензин,не битый,2,5.0,120 л.с.,102000 км,Z8TNC5FS*BM****95,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2011_1553647246
+199,Citroen,DS5,2012,хетчбэк,750 000,1.6,чёрный,передний,левый,бензин,не битый,2,5.0,150 л.с.,101101 км,VF7KP5FE*CS****89,автомат,https://www.avito.ru/moskva/avtomobili/citroen_ds5_2012_1561656063
+200,Citroen,Jumper,2010,фургон,480 000,2.2,белый,передний,левый,дизель,не битый,1,,101 л.с.,215000 км,VF7YAAMF*11****79,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2010_1373459756
+201,Citroen,C5,2003,хетчбэк,160 000,2.0,серый,передний,левый,бензин,не битый,2,5.0,136 л.с.,280000 км,VF7DCRFN*76****16,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2003_1633583666
+202,Citroen,DS3,2011,хетчбэк,600 000,1.6,жёлтый,передний,левый,бензин,не битый,2,2.0,120 л.с.,45000 км,VF7SA5FS*BW****03,автомат,https://www.avito.ru/moskva/avtomobili/citroen_ds3_2011_1722770943
+203,Citroen,C4,2011,хетчбэк,415 000,1.6,серый,передний,левый,бензин,не битый,1,5.0,120 л.с.,134000 км,Z8TNC5FS*BM****50,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2011_1689413660
+204,Citroen,C4,2016,седан,950 000,1.6,белый,передний,левый,бензин,не битый,2,4.0,115 л.с.,10000 км,Z8TNDNFP*GM****46,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2016_1629543527
+205,Citroen,C4 Picasso,2008,минивэн,350 000,2.0,голубой,передний,левый,бензин,не битый,2,5.0,140 л.с.,160000 км,VF7UDRFJ*45****99,робот,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2008_1034299709
+206,Citroen,C4 Picasso,2010,минивэн,430 000,1.6,чёрный,передний,левый,бензин,не битый,3,5.0,154 л.с.,81000 км,VF7UA5FV*AJ****47,робот,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2010_1366822348
+207,Citroen,C5,2008,седан,480 000,2.2,серебряный,передний,левый,дизель,не битый,2,4.0,173 л.с.,163000 км,VF7RD4HT*54****94,механика,https://www.avito.ru/moskva/avtomobili/citroen_c5_2008_1291012177
+208,Citroen,Berlingo,2012,фургон,400 000,1.6,белый,передний,левый,бензин,не битый,4+,,90 л.с.,128659 км,VF77HNFR*CJ****73,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2012_1077573207
+209,Citroen,Grand C4 Picasso,2011,минивэн,427 000,1.6,красный,передний,левый,бензин,не битый,3,5.0,150 л.с.,125629 км,VF7UA5FN*BJ****04,робот,https://www.avito.ru/moskva/avtomobili/citroen_grand_c4_picasso_2011_1226577290
+210,Citroen,Berlingo,2010,минивэн,465 000,1.6,бежевый,передний,левый,бензин,не битый,1,5.0,90 л.с.,89825 км,VF77JNFR*AJ****65,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2010_1586559595
+211,Citroen,DS3,2017,хетчбэк,1 090 000,1.2,белый,передний,левый,бензин,не битый,1,3.0,110 л.с.,6000 км,VF7SAHNV*HW****70,автомат,https://www.avito.ru/moskva/avtomobili/citroen_ds3_2017_1511677776
+212,Citroen,Другая,2018,минивэн,2 239 900,2.0,чёрный,передний,левый,дизель,,,,150 л.с.,,Z8TVEAHX*JM****57,автомат,https://www.avito.ru/moskva/avtomobili/citroen_2018_1253801744
+213,Citroen,C4 Picasso,2008,минивэн,365 000,2.0,синий,передний,левый,бензин,не битый,3,5.0,143 л.с.,189000 км,VF7UARFJ*45****55,робот,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2008_1563309274
+214,Citroen,DS3,2017,хетчбэк,1 520 000,1.2,фиолетовый,передний,левый,бензин,,,2.0,110 л.с.,,VF7SAHNV*HW****17,автомат,https://www.avito.ru/moskva/avtomobili/citroen_ds3_2017_1323182964
+215,Citroen,Jumpy,2014,минивэн,1 020 000,1.6,синий,передний,левый,дизель,не битый,2,4.0,90 л.с.,69500 км,VF7XD9HH*EZ****60,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumpy_2014_1271888377
+216,Citroen,C4,2009,хетчбэк,319 000,1.6,белый,передний,левый,бензин,не битый,3,,120 л.с.,98650 км,VF7LC5FW*9Y****86,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2009_1241647970
+217,Citroen,C4,2013,седан,495 000,1.6,белый,передний,левый,бензин,не битый,1,4.0,120 л.с.,136000 км,Z8TND5FS*DM****58,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2013_1647148816
+218,Citroen,C4,2007,хетчбэк,260 000,1.6,голубой,передний,левый,бензин,не битый,4+,3.0,109 л.с.,130000 км,VF7LANFU*74****29,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2007_1027149084
+219,Citroen,DS3,2010,купе,350 000,1.6,чёрный,передний,левый,бензин,не битый,3,3.0,120 л.с.,88700 км,VF7SA5FS*AW****26,автомат,https://www.avito.ru/moskva/avtomobili/citroen_ds3_2010_1364385114
+220,Citroen,Jumper,2013,фургон,825 000,2.2,белый,передний,левый,дизель,не битый,2,2.0,131 л.с.,147000 км,X9H37211*D9****49,механика,https://www.avito.ru/moskva_zelenograd/avtomobili/citroen_jumper_2013_1415398904
+221,Citroen,C5,2012,седан,555 555,1.8,белый,передний,левый,бензин,не битый,2,5.0,150 л.с.,125000 км,VF7RD5FE*CL****33,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2012_1314612532
+222,Citroen,C4,2018,седан,975 000,1.6,коричневый,передний,левый,бензин,,,,115 л.с.,,Z8TNDNFP*JM****30,механика,https://www.avito.ru/moskva/avtomobili/citroen_c4_2018_1145369870
+223,Citroen,C4,2008,хетчбэк,350 000,1.6,синий,передний,левый,бензин,не битый,4+,3.0,120 л.с.,61000 км,VF7LA5FW*74****43,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2008_1449650085
+224,Citroen,Berlingo,2017,фургон,1 050 000,1.6,белый,передний,левый,дизель,,,,90 л.с.,,VF77L9HE*HJ****62,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2017_1660102763
+225,Citroen,C4,2007,хетчбэк,245 000,1.6,серый,передний,левый,бензин,не битый,2,5.0,109 л.с.,121132 км,VF7LANFU*74****90,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2007_1445652170
+226,Citroen,Jumper,2014,фургон,690 500,2.2,белый,передний,левый,дизель,не битый,1,,131 л.с.,89000 км,VF7YAZMF*12****35,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2014_893035127
+227,Citroen,Berlingo,2011,фургон,250 000,1.4,белый,передний,левый,бензин,не битый,1,3.0,70 л.с.,215000 км,VF7GCKFW*BX****63,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2011_1064532856
+228,Citroen,C5,2006,универсал,250 000,2.0,коричневый,передний,левый,бензин,не битый,4+,5.0,140 л.с.,220000 км,VF7RERFJ*76****60,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2006_1642581998
+229,Citroen,Berlingo,2012,минивэн,520 000,1.6,серый,передний,левый,бензин,не битый,3,4.0,120 л.с.,101200 км,VF77J5FS*CJ****82,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2012_957771916
+230,Citroen,C5,2011,седан,420 000,1.6,белый,передний,левый,бензин,не битый,3,4.0,120 л.с.,110000 км,VF7RD5FS*BL****30,робот,https://www.avito.ru/moskva/avtomobili/citroen_c5_2011_1378044383
+231,Citroen,DS4,2012,хетчбэк,730 000,1.6,белый,передний,левый,бензин,не битый,2,5.0,150 л.с.,64000 км,VF7NX5FE*CY****24,автомат,https://www.avito.ru/moskva/avtomobili/citroen_ds4_2012_1513766373
+232,Citroen,C4,2014,седан,400 000,1.6,жёлтый,передний,левый,бензин,не битый,1,4.0,120 л.с.,200000 км,Z8TND5FS*EM****61,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2014_1002617860
+233,Citroen,Berlingo,2005,хетчбэк,190 000,1.4,серебряный,передний,левый,бензин,не битый,2,,75 л.с.,110675 км,VF7GJKFW*93****97,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2005_1124314349
+234,Citroen,Berlingo,2017,фургон,1 390 000,1.6,белый,передний,левый,дизель,,,2.0,90 л.с.,,VF77R9HE*HJ****08,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2017_1589234379
+235,Citroen,C4,2014,седан,430 000,1.6,серебряный,передний,левый,бензин,не битый,2,,120 л.с.,191000 км,Z8TND5FS*DM****79,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2014_1611413365
+236,Citroen,C3 Picasso,2012,хетчбэк,400 000,1.4,синий,передний,левый,бензин,не битый,1,4.0,95 л.с.,88000 км,VF7SH8FP*CT****88,механика,https://www.avito.ru/moskva/avtomobili/citroen_c3_picasso_2012_1390718251
+237,Citroen,Berlingo,2017,универсал,1 450 000,1.6,серый,передний,левый,бензин,,,,118 л.с.,,VF77J5FS*HJ****39,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2017_1545206494
+238,Citroen,C4,2010,хетчбэк,320 000,1.6,чёрный,передний,левый,бензин,не битый,2,5.0,120 л.с.,116000 км,Z8TLC5FW*AM****86,механика,https://www.avito.ru/moskva/avtomobili/citroen_c4_2010_1323273146
+239,Citroen,Jumper,2012,минивэн,860 000,2.2,серебряный,передний,левый,дизель,не битый,2,,120 л.с.,157368 км,Z8PL1H1M*CC****21,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2012_1005777324
+240,Citroen,C5,2007,седан,379 000,2.0,серебряный,передний,левый,бензин,не битый,2,4.0,140 л.с.,186000 км,VF7RCRFJ*76****96,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2007_1338802957
+241,Citroen,C4,2015,седан,850 000,1.6,чёрный,передний,левый,бензин,не битый,1,5.0,150 л.с.,37000 км,Z8TND5FE*FM****49,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2015_1530777783
+242,Citroen,DS4,2018,хетчбэк,1 907 000,1.6,белый,передний,левый,бензин,,,4.0,150 л.с.,,VF7NX5FE*JY****60,автомат,https://www.avito.ru/moskva/avtomobili/citroen_ds4_2018_1568650934
+243,Citroen,Jumper,2010,фургон,545 000,2.2,белый,передний,левый,дизель,не битый,1,,120 л.с.,133000 км,VF7YBBMF*11****24,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2010_1421200354
+244,Citroen,Другая,2011,микроавтобус,360 000,2.2,белый,передний,левый,дизель,не битый,2,5.0,120 л.с.,250000 км,X8934B2A*B0****47,механика,https://www.avito.ru/moskva/avtomobili/citroen_2011_1150650400
+245,Citroen,C4,2018,седан,1 160 000,1.6,коричневый,передний,левый,бензин,,,,115 л.с.,,Z8TNDNFP*GM****77,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2018_1714642765
+246,Citroen,C4,2018,седан,1 165 000,1.6,серебряный,передний,левый,бензин,,,,115 л.с.,,Z8TNDNFP*GM****23,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2018_1197520908
+247,Citroen,C3,2008,хетчбэк,235 000,1.4,голубой,передний,левый,бензин,не битый,3,5.0,90 л.с.,51000 км,VF7FCKFU*29****41,робот,https://www.avito.ru/moskva/avtomobili/citroen_c3_2008_1388821016
+248,Citroen,C3,2003,хетчбэк,100 000,1.1,синий,передний,левый,бензин,не битый,3,5.0,60 л.с.,140000 км,VF7FCHFX*26****97,механика,https://www.avito.ru/moskva/avtomobili/citroen_c3_2003_955971410
+249,Citroen,C4,2010,хетчбэк,399 999,1.6,чёрный,передний,левый,бензин,не битый,2,5.0,120 л.с.,94300 км,Z8TLC5FW*AM****19,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2010_1312573515
+250,Citroen,C4,2010,хетчбэк,399 999,1.6,чёрный,передний,левый,бензин,не битый,2,5.0,120 л.с.,94300 км,Z8TLC5FW*AM****19,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2010_1312573515
+251,Citroen,Berlingo,2012,фургон,350 000,1.6,белый,передний,левый,бензин,не битый,2,4.0,90 л.с.,149000 км,VF77CBFR*CJ****34,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2012_1009403205
+252,Citroen,C4 Picasso,2011,минивэн,360 000,1.6,чёрный,передний,левый,бензин,не битый,1,,150 л.с.,147000 км,VF7UA5FN*BJ****24,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2011_1050320995
+253,Citroen,Jumper,2018,фургон,1 702 900,2.2,белый,передний,левый,дизель,,,,130 л.с.,,VF7YATMF*12****79,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2018_1694007317
+254,Citroen,Berlingo,2012,минивэн,355 000,1.6,белый,передний,левый,бензин,не битый,2,,120 л.с.,105000 км,VF77JNFR*CJ****38,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2012_530515675
+255,Citroen,C3,2018,внедорожник,1 150 000,1.2,серебряный,передний,левый,бензин,,,,110 л.с.,,VF72RHNV*J5****48,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c3_2018_1704788004
+256,Citroen,Berlingo,2012,минивэн,430 000,1.6,белый,передний,левый,дизель,не битый,1,5.0,90 л.с.,100000 км,VF77L9HE*CJ****87,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2012_1290046458
+257,Citroen,Berlingo,2011,фургон,225 000,1.4,красный,передний,левый,бензин,не битый,1,,75 л.с.,208154 км,VF7GCKFW*BX****10,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2011_1566117814
+258,Citroen,C4,2018,седан,1 150 000,1.6,белый,передний,левый,бензин,,,,115 л.с.,,Z8TNDNFP*JM****95,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2018_1494406301
+259,Citroen,C3,2018,внедорожник,1 460 000,1.2,серебряный,передний,левый,бензин,,,,110 л.с.,,Z8TNDNFP*GM****97,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c3_2018_1633856568
+260,Citroen,C2,2004,хетчбэк,200 000,1.6,чёрный,передний,левый,бензин,не битый,3,2.0,109 л.с.,122257 км,VF7JMNFU*97****39,робот,https://www.avito.ru/moskva/avtomobili/citroen_c2_2004_1679694456
+261,Citroen,DS3,2009,хетчбэк,500 000,1.6,серый,передний,левый,бензин,не битый,3,3.0,156 л.с.,134000 км,VF7SA5FR*9W****38,механика,https://www.avito.ru/moskva_zelenograd/avtomobili/citroen_ds3_2009_1472996355
+262,Citroen,C4,2015,седан,790 000,1.6,белый,передний,левый,бензин,не битый,1,4.0,150 л.с.,50000 км,Z8TND5FE*FM****90,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2015_1178011885
+263,Citroen,C4,2012,хетчбэк,580 000,1.6,белый,передний,левый,дизель,не битый,2,5.0,112 л.с.,155000 км,VF7NC9HR*CY****65,робот,https://www.avito.ru/moskva/avtomobili/citroen_c4_2012_1349660476
+264,Citroen,C4,2014,седан,316 000,1.6,жёлтый,передний,левый,бензин, битый,1,5.0,116 л.с.,80000 км,Z8TNDNFP*EM****09,механика,https://www.avito.ru/moskva/avtomobili/citroen_c4_2014_1214461106
+265,Citroen,C4,2014,седан,540 000,1.5,белый,передний,левый,бензин,не битый,2,4.0,150 л.с.,75800 км,Z8TND5FE*EM****14,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2014_1398405988
+266,Citroen,C5,2008,седан,485 000,2.0,серый,передний,левый,бензин,не битый,4+,5.0,140 л.с.,111200 км,VF7RDRFJ*54****81,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c5_2008_1588156881
+267,Citroen,C-Elysee,2014,седан,460 000,1.6,белый,передний,левый,бензин,не битый,2,,115 л.с.,65455 км,VF7DDNFP*EJ****87,механика,https://www.avito.ru/moskva/avtomobili/citroen_c-elysee_2014_1722626688
+268,Citroen,Jumper,2012,фургон,610 000,2.2,белый,передний,левый,дизель,не битый,1,5.0,131 л.с.,229000 км,VF7YAZMF*12****86,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2012_971668887
+269,Citroen,C3,2018,внедорожник,1 133 000,1.2,серебряный,передний,левый,бензин,,,,110 л.с.,,VF72RHNV*J4****37,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c3_2018_1391647117
+270,Citroen,C4,2018,седан,1 260 000,1.6,белый,передний,левый,бензин,,,,115 л.с.,,Z8TNDNFP*HM****46,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2018_1083897325
+271,Citroen,Grand C4 Picasso,2010,минивэн,537 700,1.6,синий,передний,левый,дизель,не битый,2,5.0,112 л.с.,123454 км,VF7UD9HR*AJ****93,робот,https://www.avito.ru/moskva/avtomobili/citroen_grand_c4_picasso_2010_1312770332
+272,Citroen,C4 Picasso,2017,минивэн,1 700 000,1.6,жёлтый,передний,левый,дизель,не битый,1,5.0,120 л.с.,12000 км,VF73ABHZ*HJ****56,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2017_1620961834
+273,Citroen,C4,2014,седан,525 000,1.6,серый,передний,левый,бензин,не битый,2,4.0,150 л.с.,74106 км,Z8TND5FE*EM****08,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2014_1587863998
+274,Citroen,C4,2011,хетчбэк,304 000,1.6,синий,передний,левый,бензин,не битый,3,,110 л.с.,89700 км,VF7LCNFU*AY****44,механика,https://www.avito.ru/moskva/avtomobili/citroen_c4_2011_1632295307
+275,Citroen,C3,2018,внедорожник,1 473 000,1.2,бежевый,передний,левый,бензин,,,,110 л.с.,,Z8TND5GX*HM****08,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c3_2018_985191267
+276,Citroen,C4,2014,седан,590 000,1.6,белый,передний,левый,бензин,не битый,3,5.0,150 л.с.,56000 км,Z8TND5FE*EM****62,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2014_1085135148
+277,Citroen,C4,2012,хетчбэк,380 000,1.6,красный,передний,левый,бензин,не битый,3,,120 л.с.,148000 км,Z8TNC5FS*CM****12,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2012_1400212502
+278,Citroen,DS5,2012,хетчбэк,779 000,2.0,белый,передний,левый,дизель,не битый,4+,5.0,163 л.с.,144000 км,VF7KFRHH*CS****07,автомат,https://www.avito.ru/moskva/avtomobili/citroen_ds5_2012_1491302618
+279,Citroen,C4,2013,седан,510 000,1.6,чёрный,передний,левый,бензин,не битый,2,,150 л.с.,56000 км,Z8TND5FE*DM****29,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2013_1375043997
+280,Citroen,Jumper,2012,фургон,720 000,2.2,белый,передний,левый,дизель,не битый,2,4.0,131 л.с.,98000 км,VF7YAZMF*12****40,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2012_1021619936
+281,Citroen,C-Elysee,2013,седан,435 000,1.2,голубой,передний,левый,бензин,не битый,1,,72 л.с.,56216 км,VF7DDHMY*DJ****22,механика,https://www.avito.ru/moskva/avtomobili/citroen_c-elysee_2013_1653502750
+282,Citroen,Berlingo,2006,минивэн,210 000,1.4,красный,передний,левый,бензин,не битый,2,,75 л.с.,102876 км,VF7GJKFW*93****18,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2006_1669229375
+283,Citroen,C4,2014,седан,650 000,1.6,коричневый,передний,левый,бензин,не битый,1,,115 л.с.,80000 км,Z8TNDNFP*EM****71,механика,https://www.avito.ru/moskva/avtomobili/citroen_c4_2014_1182194821
+284,Citroen,Jumper,2012,фургон,545 500,2.2,белый,передний,левый,дизель,не битый,1,,120 л.с.,93000 км,VF7YABMF*12****18,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2012_1721130072
+285,Citroen,C4 Picasso,2012,минивэн,499 999,1.5,чёрный,передний,левый,бензин,не битый,2,5.0,150 л.с.,155000 км,VF7UD5FN*CJ****29,робот,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2012_1378488823
+286,Citroen,C4,2014,седан,555 000,1.6,серебряный,передний,левый,бензин,не битый,2,,115 л.с.,13300 км,Z8TNDNFP*EM****42,механика,https://www.avito.ru/moskva/avtomobili/citroen_c4_2014_1046803880
+287,Citroen,C4 Picasso,2016,минивэн,1 400 000,1.6,белый,передний,левый,бензин,не битый,1,5.0,150 л.с.,65000 км,VF73A5GX*FJ****59,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2016_1209423886
+288,Citroen,C-Crosser,2010,внедорожник,625 000,2.4,серебряный,полный,левый,бензин,не битый,2,5.0,170 л.с.,154137 км,Z8TVUSFZ*AM****62,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c-crosser_2010_1532385799
+289,Citroen,C4 Picasso,2008,универсал,310 000,2.0,серебряный,передний,левый,бензин,не битый,4+,5.0,140 л.с.,161000 км,VF7UDRFJ*45****88,робот,https://www.avito.ru/moskva/avtomobili/citroen_c4_picasso_2008_1205408632
+290,Citroen,Jumper,2012,фургон,625 500,2.2,синий,передний,левый,дизель,не битый,1,,131 л.с.,86000 км,VF7YCZMF*12****66,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2012_1460010328
+291,Citroen,Berlingo,2009,минивэн,384 900,1.6,серебряный,передний,левый,бензин,не битый,2,5.0,90 л.с.,74000 км,VF77JNFR*9J****49,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2009_1718365907
+292,Citroen,Berlingo,2012,минивэн,475 000,1.6,белый,передний,левый,бензин,не битый,1,,120 л.с.,98000 км,VF77J5FS*CJ****46,механика,https://www.avito.ru/moskva/avtomobili/citroen_berlingo_2012_1424673333
+293,Citroen,Jumper,2014,фургон,654 500,2.2,белый,передний,левый,дизель,не битый,1,4.0,130 л.с.,82000 км,VF7YAZMF*12****35,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2014_1006962189
+294,Citroen,C4,2013,седан,548 000,1.6,серебряный,передний,левый,бензин,не битый,2,4.0,120 л.с.,28300 км,Z8TND5FS*DM****68,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2013_1614183624
+295,Citroen,C4,2007,хетчбэк,245 000,1.6,красный,передний,левый,бензин,не битый,1,,109 л.с.,122000 км,VF7LANFU*74****99,автомат,https://www.avito.ru/moskva/avtomobili/citroen_c4_2007_1617417177
+296,Citroen,Jumper,2014,фургон,780 500,2.2,синий,передний,левый,дизель,не битый,1,4.0,131 л.с.,78000 км,VF7YCZMF*12****88,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2014_1233576541
+297,Citroen,Jumper,2012,микроавтобус,820 500,2.2,серебряный,передний,левый,дизель,не битый,1,4.0,120 л.с.,125000 км,Z8PL1H1M*CC****58,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2012_1383502613
+298,Citroen,Jumper,2014,фургон,805 500,2.2,красный,передний,левый,дизель,не битый,1,,131 л.с.,83000 км,VF7YAZMF*12****96,механика,https://www.avito.ru/moskva/avtomobili/citroen_jumper_2014_1651855957
